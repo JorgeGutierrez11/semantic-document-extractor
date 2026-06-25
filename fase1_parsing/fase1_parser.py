@@ -82,7 +82,7 @@ def parse_docx_to_markdown(docx_path: Path) -> ParsedDocument:
     try:
         markdown_raw = pypandoc.convert_file(
             str(docx_path),
-            to="markdown+pipe_tables-grid_tables-multiline_tables",
+            to="markdown-pipe_tables-grid_tables-multiline_tables",
             format="docx+styles",
             extra_args=[
                 "--wrap=none",
