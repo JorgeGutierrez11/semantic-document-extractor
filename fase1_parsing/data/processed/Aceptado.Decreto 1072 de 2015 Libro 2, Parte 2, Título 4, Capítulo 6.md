@@ -366,7 +366,7 @@ La evaluación inicial debe incluir, entre otros, los siguientes aspectos:
 
 2.5. Definir los recursos financieros, humanos, técnicos y de otra índole requeridos para la implementación del Sistema de Gestión de la Seguridad y Salud en el Trabajo (SG-SST.)
 
-**Parágrafo 1**°**.** La planificación en Seguridad y Salud en el Trabajo debe abarcar la implementación y el funcionamiento de cada uno de los componentes del Sistema de Ges­tión de la Seguridad y Salud en el Trabajo (SG-SST9 (Política, Objetivos, Planificación, Aplicación, Evaluación inicial, Auditoría y Mejora), desarrollados de conformidad con el presente capítulo.
+**Parágrafo 1**°**.** La planificación en Seguridad y Salud en el Trabajo debe abarcar la implementación y el funcionamiento de cada uno de los componentes del Sistema de Ges­tión de la Seguridad y Salud en el Trabajo (SG-SST (Política, Objetivos, Planificación, Aplicación, Evaluación inicial, Auditoría y Mejora), desarrollados de conformidad con el presente capítulo.
 
 **Parágrafo 2**°**.** El plan de trabajo anual debe ser firmado por el empleador y contener los objetivos, metas, actividades, responsables, cronograma y recursos del Sistema de Ges­tión de la Seguridad y Salud en el Trabajo (SG-SST).
 
