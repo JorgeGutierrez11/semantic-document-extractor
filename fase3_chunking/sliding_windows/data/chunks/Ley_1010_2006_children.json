@@ -1,0 +1,1650 @@
+[
+  {
+    "content": "**LEY 1010 DE 2006**\n\n**(Enero 23)**\n\n***Por medio de la cual se adoptan medidas para prevenir, corregir y sancionar el acoso laboral y otros hostigamientos en el marco de las relaciones de trabajo***\n\n**EL CONGRESO DE COLOMBIA*,***\n\n**DECRETA:**",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 0,
+      "child_index": 0,
+      "child_total": 8,
+      "char_start": 0,
+      "char_count": 246
+    }
+  },
+  {
+    "content": "**Artículo 1°**. ***Objeto de la ley y bienes protegidos por ella.*** La presente ley tiene por objeto definir, prevenir, corregir y sancionar las diversas formas de agresión, maltrato, vejámenes, trato desconsiderado y ofensivo y en general todo ultraje a la dignidad humana que se ejercen sobre quienes realizan sus actividades económicas en el contexto de una relación laboral privada o pública.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 0,
+      "child_index": 1,
+      "child_total": 8,
+      "char_start": 248,
+      "char_count": 398
+    }
+  },
+  {
+    "content": "Son bienes jurídicos protegidos por la presente ley: el trabajo en condiciones dignas y justas, la libertad, la intimidad, la honra y la salud mental de los trabajadores, empleados, la armonía entre quienes comparten un mismo ambiente laboral y el buen ambiente en la empresa.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 0,
+      "child_index": 2,
+      "child_total": 8,
+      "char_start": 648,
+      "char_count": 276
+    }
+  },
+  {
+    "content": "**Parágrafo:** La presente ley no se aplicará en el ámbito de las relaciones civiles y/o comerciales derivadas de los contratos de prestación de servicios en los cuales no se presenta una relación de jerarquía o subordinación. Tampoco se aplica a la contratación administrativa.\n\n**Jurisprudencia:**",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 0,
+      "child_index": 3,
+      "child_total": 8,
+      "char_start": 926,
+      "char_count": 299
+    }
+  },
+  {
+    "content": "**Jurisprudencia:**\n\n**Texto subrayado declarado EXEQUIBLE por la Corte Constitucional, mediante** Sentencia C-960 de 2007**, en el entendido de que si en realidad existe una relación laboral, se aplicará la Ley 1010 de 2006**.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 0,
+      "child_index": 4,
+      "child_total": 8,
+      "char_start": 1206,
+      "char_count": 227
+    }
+  },
+  {
+    "content": "**Artículo 2°**",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 0,
+      "child_index": 5,
+      "child_total": 8,
+      "char_start": 1435,
+      "char_count": 15
+    }
+  },
+  {
+    "content": ". ***Definición y modalidades de acoso laboral.*** Para efectos de la presente ley se entenderá por acoso laboral toda conducta persistente y demostrable, ejercida sobre un empleado, trabajador por parte de un empleador, un jefe o superior jerárquico inmediato o mediato, un compañero de trabajo o un subalterno, encaminada a infundir miedo, intimidación, terror y angustia, a causar perjuicio",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 0,
+      "child_index": 6,
+      "child_total": 8,
+      "char_start": 1450,
+      "char_count": 393
+    }
+  },
+  {
+    "content": "o un subalterno, encaminada a infundir miedo, intimidación, terror y angustia, a causar perjuicio laboral, generar desmotivación en el trabajo, o inducir la renuncia del mismo.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 0,
+      "child_index": 7,
+      "child_total": 8,
+      "char_start": 1746,
+      "char_count": 176
+    }
+  },
+  {
+    "content": "En el contexto del inciso primero de este artículo, el acoso laboral puede darse, entre otras, bajo las siguientes modalidades generales:",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 1,
+      "child_index": 0,
+      "child_total": 9,
+      "char_start": 0,
+      "char_count": 137
+    }
+  },
+  {
+    "content": "1",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 1,
+      "child_index": 1,
+      "child_total": 9,
+      "char_start": 139,
+      "char_count": 1
+    }
+  },
+  {
+    "content": ". **Maltrato laboral.** Todo acto de violencia contra la integridad física o moral, la libertad física o sexual y los bienes de quien se desempeñe como empleado o trabajador; toda expresión verbal injuriosa o ultrajante que lesione la integridad moral o los derechos a la intimidad y al buen nombre de quienes participen en una relación de trabajo de tipo laboral o todo comportamiento tendiente a",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 1,
+      "child_index": 2,
+      "child_total": 9,
+      "char_start": 140,
+      "char_count": 397
+    }
+  },
+  {
+    "content": "de quienes participen en una relación de trabajo de tipo laboral o todo comportamiento tendiente a menoscabar la autoestima y la dignidad de quien participe en una relación de trabajo de tipo laboral.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 1,
+      "child_index": 3,
+      "child_total": 9,
+      "char_start": 439,
+      "char_count": 200
+    }
+  },
+  {
+    "content": "2. **Persecución laboral:** Toda conducta cuyas características de reiteración o evidente arbitrariedad permitan inferir el propósito de inducir la renuncia del empleado o trabajador, mediante la descalificación, la carga excesiva de trabajo y cambios permanentes de horario que puedan producir desmotivación laboral.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 1,
+      "child_index": 4,
+      "child_total": 9,
+      "char_start": 641,
+      "char_count": 317
+    }
+  },
+  {
+    "content": "3. **Discriminación laboral:** (*Modificado por el art. 74, Ley 1622 de 2013),* todo trato diferenciado por razones de raza, género, origen familiar o nacional, credo religioso, preferencia política o situación social o que carezca de toda razonabilidad desde el punto de vista laboral.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 1,
+      "child_index": 5,
+      "child_total": 9,
+      "char_start": 960,
+      "char_count": 286
+    }
+  },
+  {
+    "content": "4. **Entorpecimiento laboral:** Toda acción tendiente a obstaculizar el cumplimiento de la labor o hacerla más gravosa o retardarla con perjuicio para el trabajador o empleado",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 1,
+      "child_index": 6,
+      "child_total": 9,
+      "char_start": 1248,
+      "char_count": 175
+    }
+  },
+  {
+    "content": ". Constituyen acciones de entorpecimiento laboral, entre otras, la privación, ocultación o inutilización de los insumos, documentos o instrumentos para la labor, la destrucción o pérdida de información, el ocultamiento de correspondencia o mensajes electrónicos.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 1,
+      "child_index": 7,
+      "child_total": 9,
+      "char_start": 1423,
+      "char_count": 262
+    }
+  },
+  {
+    "content": "5. **Inequidad laboral:** Asignación de funciones a menosprecio del trabajador.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 1,
+      "child_index": 8,
+      "child_total": 9,
+      "char_start": 1687,
+      "char_count": 79
+    }
+  },
+  {
+    "content": "5. **Inequidad laboral:** Asignación de funciones a menosprecio del trabajador.\n\n6. **Desprotección laboral:** Toda conducta tendiente a poner en riesgo la integridad y la seguridad del trabajador mediante órdenes o asignación de funciones sin el cumplimiento de los requisitos mínimos de protección y seguridad para el trabajador.\n\n**Jurisprudencia:**",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 2,
+      "child_index": 0,
+      "child_total": 6,
+      "char_start": 0,
+      "char_count": 352
+    }
+  },
+  {
+    "content": "**Jurisprudencia:**\n\n**Mediante Sentencia C-682-12 de 25 de octubre de 2012, Magistrado Ponente Dr. Alexei Julio Estrada, la Corte Constitucional, de conformidad con lo previsto en el artículo 241, numeral 8 de la Constitución, efectuó la revisión de constitucionalidad del Proyecto de Ley Estatutaria No. 169/11 Senado, 014/11 Cámara y declaró EXEQUIBLE este artículo.**",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 2,
+      "child_index": 1,
+      "child_total": 6,
+      "char_start": 333,
+      "char_count": 371
+    }
+  },
+  {
+    "content": "**Artículo 3°.** ***Conductas atenuantes.*** Son conductas atenuantes del acoso laboral:\n\na.) Haber observado buena conducta anterior.\n\nb.) Obrar en estado de emoción o pasión excusable, o temor intenso, o en estado de ira e intenso dolor.\n\nc.) Procurar voluntariamente, después de realizada la conducta, disminuir o anular sus consecuencias.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 2,
+      "child_index": 2,
+      "child_total": 6,
+      "char_start": 706,
+      "char_count": 342
+    }
+  },
+  {
+    "content": "d.) Reparar, discrecionalmente, el daño ocasionado, aunque no sea en forma total.\n\ne.) Las condiciones de inferioridad síquicas determinadas por la edad o por circunstancias orgánicas que hayan influido en la realización de la conducta.\n\n**Jurisprudencia:**",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 2,
+      "child_index": 3,
+      "child_total": 6,
+      "char_start": 1050,
+      "char_count": 257
+    }
+  },
+  {
+    "content": "**Jurisprudencia:**\n\n**Aparte subrayado declarado EXEQUIBLE, por las razones estudiadas y en los términos de la misma, por la Corte Constitucional mediante Sentencia C-078-07 de 7 de febrero de 2007, Magistrado Ponente Dr. Jaime Córdoba Triviño.**\n\nf.) Literal declarado inexequible por la Corte Constitucional Sentencia C-898 de 2006.\n\n***El texto declarado inequebible era el siguiente:***",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 2,
+      "child_index": 4,
+      "child_total": 6,
+      "char_start": 1288,
+      "char_count": 391
+    }
+  },
+  {
+    "content": "***El texto declarado inequebible era el siguiente:***\n\n*f.Los vínculos familiares y afectivos.*\n\ng.) Cuando existe manifiesta o velada provocación o desafío por parte del superior, compañero o subalterno.\n\nh.) Cualquier circunstancia de análoga significación a las anteriores.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 2,
+      "child_index": 5,
+      "child_total": 6,
+      "char_start": 1625,
+      "char_count": 277
+    }
+  },
+  {
+    "content": "g.) Cuando existe manifiesta o velada provocación o desafío por parte del superior, compañero o subalterno.\n\nh.) Cualquier circunstancia de análoga significación a las anteriores.\n\n**Parágrafo.** El estado de emoción o pasión excusable, no se tendrá en cuenta en el caso de violencia contra la libertad sexual.\n\n**Artículo 4°.** ***Circunstancias agravantes.*** Son circunstancias agravantes:",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 3,
+      "child_index": 0,
+      "child_total": 6,
+      "char_start": 0,
+      "char_count": 392
+    }
+  },
+  {
+    "content": "**Artículo 4°.** ***Circunstancias agravantes.*** Son circunstancias agravantes:\n\na.) Reiteración de la conducta;\n\nb.) Cuando exista concurrencia de causales;\n\nc.) Realizar la conducta por motivo abyecto, fútil o mediante precio, recompensa o promesa remuneratoria,",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 3,
+      "child_index": 1,
+      "child_total": 6,
+      "char_start": 312,
+      "char_count": 265
+    }
+  },
+  {
+    "content": "d.) Mediante ocultamiento, o aprovechando las condiciones de tiempo, modo y lugar, que dificulten la defensa del ofendido, o la identificación del autor partícipe;\n\ne.) Aumentar deliberada e inhumanamente el daño psíquico y biológico causado al sujeto pasivo;\n\nf.) La posición predominante que el autor ocupe en la sociedad, por su cargo, rango económico, ilustración, poder, oficio o dignidad;",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 3,
+      "child_index": 2,
+      "child_total": 6,
+      "char_start": 579,
+      "char_count": 394
+    }
+  },
+  {
+    "content": "g.) Ejecutar la conducta valiéndose de un tercero o de un inimputable;\n\nh.) Cuando en la conducta desplegada por el sujeto activo se causa un daño en la salud física o psíquica al sujeto pasivo.\n\n**Artículo 5°.** ***Graduación*.** Lo dispuesto en los dos artículos anteriores, se aplicará sin perjuicio de lo dispuesto en el Código Disciplinario Unico, para la graduación de las faltas.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 3,
+      "child_index": 3,
+      "child_total": 6,
+      "char_start": 975,
+      "char_count": 386
+    }
+  },
+  {
+    "content": "**Artículo 6°. *Sujetos y ámbito de aplicación de la ley.*** Pueden ser sujetos activos o autores del acoso laboral:\n\nLa persona natural que se desempeñe como gerente, jefe, director, supervisor o cualquier otra posición de dirección y mando en una empresa u organización en la cual haya relaciones laborales regidas por el Código Sustantivo del Trabajo;",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 3,
+      "child_index": 4,
+      "child_total": 6,
+      "char_start": 1363,
+      "char_count": 354
+    }
+  },
+  {
+    "content": "La persona natural que se desempeñe como superior jerárquico o tenga la calidad de jefe de una dependencia estatal;\n\nLa persona natural que se desempeñe como trabajador o empleado. Son sujetos pasivos o víctimas del acoso laboral;",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 3,
+      "child_index": 5,
+      "child_total": 6,
+      "char_start": 1481,
+      "char_count": 230
+    }
+  },
+  {
+    "content": "La persona natural que se desempeñe como trabajador o empleado. Son sujetos pasivos o víctimas del acoso laboral;\n\nLos trabajadores o empleados vinculados a una relación laboral de trabajo en el sector privado;\n\nLos servidores públicos, tanto empleados públicos como trabajadores oficiales y servidores con régimen especial que se desempeñen en una dependencia pública;",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 4,
+      "child_index": 0,
+      "child_total": 7,
+      "char_start": 0,
+      "char_count": 369
+    }
+  },
+  {
+    "content": "Los jefes inmediatos cuando el acoso provenga de sus subalternos. Son sujetos partícipes del acoso laboral:\n\nLa persona natural que como empleador promueva, induzca o favorezca el acoso laboral;\n\nLa persona natural que omita cumplir los requerimientos o amonestaciones que se profieran por los Inspectores de Trabajo en los términos de la presente ley.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 4,
+      "child_index": 1,
+      "child_total": 7,
+      "char_start": 371,
+      "char_count": 352
+    }
+  },
+  {
+    "content": "**Parágrafo:** Las situaciones de acoso laboral que se corrigen y sancionan en la presente ley son sólo aquellas que ocurren en un ámbito de relaciones de dependencia o subordinación de carácter laboral.\n\n**Artículo 7°**. ***Conductas que constituyen acoso laboral.*** Se presumirá que hay acoso laboral si se acredita la ocurrencia repetida y pública de cualquiera de las siguientes conductas:",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 4,
+      "child_index": 2,
+      "child_total": 7,
+      "char_start": 725,
+      "char_count": 394
+    }
+  },
+  {
+    "content": "a.) Los actos de agresión física, independientemente de sus consecuencias;\n\nb.) Las expresiones injuriosas o ultrajantes sobre la persona, con utilización de palabras soeces o con alusión a la raza, el género, el origen familiar o nacional, la preferencia política o el estatus social;",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 4,
+      "child_index": 3,
+      "child_total": 7,
+      "char_start": 1121,
+      "char_count": 285
+    }
+  },
+  {
+    "content": "c.) Los comentarios hostiles y humillantes de descalificación profesional expresados en presencia de los compañeros de trabajo;\n\nd.) Las injustificadas amenazas de despido expresadas en presencia de los compañeros de trabajo;",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 4,
+      "child_index": 4,
+      "child_total": 7,
+      "char_start": 1408,
+      "char_count": 225
+    }
+  },
+  {
+    "content": "d.) Las injustificadas amenazas de despido expresadas en presencia de los compañeros de trabajo;\n\ne.) Las múltiples denuncias disciplinarias de cualquiera de los sujetos activos del acoso, cuya temeridad quede demostrada por el resultado de los respectivos procesos disciplinarios;",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 4,
+      "child_index": 5,
+      "child_total": 7,
+      "char_start": 1537,
+      "char_count": 281
+    }
+  },
+  {
+    "content": "f.) La descalificación humillante y en presencia de los compañeros de trabajo de las propuestas u opiniones de trabajo;",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 4,
+      "child_index": 6,
+      "child_total": 7,
+      "char_start": 1820,
+      "char_count": 119
+    }
+  },
+  {
+    "content": "f.) La descalificación humillante y en presencia de los compañeros de trabajo de las propuestas u opiniones de trabajo;\n\ng.) las burlas sobre la apariencia física o la forma de vestir, formuladas en público;\n\nh.) La alusión pública a hechos pertenecientes a la intimidad de la persona;",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 5,
+      "child_index": 0,
+      "child_total": 6,
+      "char_start": 0,
+      "char_count": 285
+    }
+  },
+  {
+    "content": "h.) La alusión pública a hechos pertenecientes a la intimidad de la persona;\n\ni.) La imposición de deberes ostensiblemente extraños a las obligaciones laborales, las exigencias abiertamente desproporcionadas sobre el cumplimiento de la labor encomendada y el brusco cambio del lugar de trabajo o de la labor contratada sin ningún fundamento objetivo referente a la necesidad técnica de la empresa;",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 5,
+      "child_index": 1,
+      "child_total": 6,
+      "char_start": 209,
+      "char_count": 397
+    }
+  },
+  {
+    "content": "j.) La exigencia de laborar en horarios excesivos respecto a la jornada laboral contratada o legalmente establecida, los cambios sorpresivos del turno laboral y la exigencia permanente de laborar en dominicales y días festivos sin ningún fundamento objetivo en las necesidades de la empresa, o en forma discriminatoria respecto a los demás trabajadores o empleados;",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 5,
+      "child_index": 2,
+      "child_total": 6,
+      "char_start": 608,
+      "char_count": 365
+    }
+  },
+  {
+    "content": "k.) El trato notoriamente discriminatorio respecto a los demás empleados en cuanto al otorgamiento de derechos y prerrogativas laborales y la imposición de deberes laborales;\n\nl.) La negativa a suministrar materiales e información absolutamente indispensables para el cumplimiento de la labor;",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 5,
+      "child_index": 3,
+      "child_total": 6,
+      "char_start": 975,
+      "char_count": 293
+    }
+  },
+  {
+    "content": "m.) La negativa claramente injustificada a otorgar permisos, licencias por enfermedad, licencias ordinarias y vacaciones, cuando se dan las condiciones legales, reglamentarias o convencionales para pedirlos;\n\nn.) El envío de anónimos, llamadas telefónicas y mensajes virtuales con contenido injurioso, ofensivo o intimidatorio o el sometimiento a una situación de aislamiento social.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 5,
+      "child_index": 4,
+      "child_total": 6,
+      "char_start": 1270,
+      "char_count": 383
+    }
+  },
+  {
+    "content": "En los demás casos no enumerados en este artículo, la autoridad competente valorará, según las circunstancias del caso y la gravedad de las conductas denunciadas, la ocurrencia del acoso laboral descrito en el artículo 2°.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 5,
+      "child_index": 5,
+      "child_total": 6,
+      "char_start": 1655,
+      "char_count": 222
+    }
+  },
+  {
+    "content": "Excepcionalmente un sólo acto hostil bastará para acreditar el acoso laboral. La autoridad competente apreciará tal circunstancia, según la gravedad de la conducta denunciada y su capacidad de ofender por sí sola la dignidad humana, la vida e integridad física, la libertad sexual y demás derechos fundamentales.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 6,
+      "child_index": 0,
+      "child_total": 6,
+      "char_start": 0,
+      "char_count": 312
+    }
+  },
+  {
+    "content": "Cuando las conductas descritas en este artículo tengan ocurrencias en privado, deberán ser demostradas por los medios de prueba reconocidos en la ley procesal civil.\n\n**Artículo 8°.** ***Conductas que no constituyen acoso laboral.*** No constituyen acoso laboral bajo ninguna de sus modalidades:",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 6,
+      "child_index": 1,
+      "child_total": 6,
+      "char_start": 314,
+      "char_count": 295
+    }
+  },
+  {
+    "content": "a.) Las exigencias y órdenes, necesarias para mantener la disciplina en los cuerpos que componen las Fuerzas Pública conforme al principio constitucional de obediencia debida;\n\nb.) Los actos destinados a ejercer la potestad disciplinaria que legalmente corresponde a los superiores jerárquicos sobre sus subalternos;",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 6,
+      "child_index": 2,
+      "child_total": 6,
+      "char_start": 611,
+      "char_count": 316
+    }
+  },
+  {
+    "content": "c.) La formulación de exigencias razonables de fidelidad laboral o lealtad empresarial e institucional;\n\nd.) La formulación de circulares o memorandos de servicio encaminados a solicitar exigencias técnicas o mejorar la eficiencia laboral y la evaluación laboral de subalternos conforme a indicadores objetivos y generales de rendimiento;",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 6,
+      "child_index": 3,
+      "child_total": 6,
+      "char_start": 929,
+      "char_count": 338
+    }
+  },
+  {
+    "content": "e.) La solicitud de cumplir deberes extras de colaboración con la empresa o la institución, cuando sean necesarios para la continuidad del servicio o para solucionar situaciones difíciles en la operación de la empresa o la institución;",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 6,
+      "child_index": 4,
+      "child_total": 6,
+      "char_start": 1269,
+      "char_count": 235
+    }
+  },
+  {
+    "content": "f.) Las actuaciones administrativas o gestiones encaminadas a dar por terminado el contrato de trabajo, con base en una causa legal o una justa causa, prevista en el Código Sustantivo del Trabajo o en la legislación sobre la función pública.\n\ng.) La solicitud de cumplir los deberes de la persona y el ciudadano, de que trata el artículo 95 de la Constitución.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 6,
+      "child_index": 5,
+      "child_total": 6,
+      "char_start": 1506,
+      "char_count": 360
+    }
+  },
+  {
+    "content": "g.) La solicitud de cumplir los deberes de la persona y el ciudadano, de que trata el artículo 95 de la Constitución.\n\nh.) La exigencia de cumplir las obligaciones o deberes de que tratan los artículos 55 á 57 del C.S.T, así como de no incurrir en las prohibiciones de que tratan los artículo 59 y 60 del mismo Código.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 7,
+      "child_index": 0,
+      "child_total": 6,
+      "char_start": 0,
+      "char_count": 318
+    }
+  },
+  {
+    "content": "i.) Las exigencias de cumplir con las estipulaciones contenidas en los reglamentos y cláusulas de los contratos de trabajo.\n\nj.) La exigencia de cumplir con las obligaciones, deberes y prohibiciones de que trata la legislación disciplinaria aplicable a los servidores públicos.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 7,
+      "child_index": 1,
+      "child_total": 6,
+      "char_start": 320,
+      "char_count": 277
+    }
+  },
+  {
+    "content": "**Parágrafo.** Las exigencias técnicas, los requerimientos de eficiencia y las peticiones de colaboración a que se refiere este artículo deberán ser justificados, fundados en criterios objetivos y no discriminatorios.\n\n**Artículo 9°**. ***Medidas preventivas y correctivas del acoso laboral.***",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 7,
+      "child_index": 2,
+      "child_total": 6,
+      "char_start": 599,
+      "char_count": 294
+    }
+  },
+  {
+    "content": "1. Los reglamentos de trabajo de las empresas e instituciones deberán prever mecanismos de prevención de las conductas de acoso laboral y establecer un procedimiento interno, confidencial, conciliatorio y efectivo para superar las que ocurran en el lugar de trabajo",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 7,
+      "child_index": 3,
+      "child_total": 6,
+      "char_start": 895,
+      "char_count": 265
+    }
+  },
+  {
+    "content": ". Los comités de empresa de carácter bipartito, donde existan, podrán asumir funciones relacionados con acoso laboral en los reglamentos de trabajo.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 7,
+      "child_index": 4,
+      "child_total": 6,
+      "char_start": 1160,
+      "char_count": 148
+    }
+  },
+  {
+    "content": "2. La víctima del acoso laboral podrá poner en conocimiento del Inspector de Trabajo con competencia en el lugar de los hechos, de los Inspectores Municipales de Policía, de los Personeros Municipales o de la Defensoría del Pueblo, a prevención, la ocurrencia de una situación continuada y ostensible de acoso laboral.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 7,
+      "child_index": 5,
+      "child_total": 6,
+      "char_start": 1310,
+      "char_count": 318
+    }
+  },
+  {
+    "content": "La denuncia deberá dirigirse por escrito en que se detallen los hechos denunciados y al que se anexa prueba sumaria de los mismos",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 8,
+      "child_index": 0,
+      "child_total": 8,
+      "char_start": 0,
+      "char_count": 129
+    }
+  },
+  {
+    "content": ". La autoridad que reciba la denuncia en tales términos conminará preventivamente al empleador para que ponga en marcha los procedimientos confidenciales referidos en el numeral 1 de este artículo y programe actividades pedagógicas o terapias grupales de mejoramiento de las relaciones entre quienes comparten una relación laboral dentro de una empresa",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 8,
+      "child_index": 1,
+      "child_total": 8,
+      "char_start": 129,
+      "char_count": 352
+    }
+  },
+  {
+    "content": ". Para adoptar esta medida se escuchará a la parte denunciada.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 8,
+      "child_index": 2,
+      "child_total": 8,
+      "char_start": 481,
+      "char_count": 62
+    }
+  },
+  {
+    "content": "3. Quien se considere víctima de una conducta de acoso laboral bajo alguna de las modalidades descritas en el artículo 2° de la presente ley podrá solicitar la intervención de una institución de conciliación autorizada legalmente a fin de que amigablemente se supere la situación de acoso laboral.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 8,
+      "child_index": 3,
+      "child_total": 8,
+      "char_start": 545,
+      "char_count": 297
+    }
+  },
+  {
+    "content": "10. Adicionado por el art. 16, Ley 2365 de 2024",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 8,
+      "child_index": 4,
+      "child_total": 8,
+      "char_start": 844,
+      "char_count": 47
+    }
+  },
+  {
+    "content": ". 16, Ley 2365 de 2024. *\\<El texto adicionado es el siguiente\\>* Ante la ocurrencia de actos de presunto acoso sexual en el contexto laboral, sin importar el tipo de vinculación, el empleador o contratante del sector público o privado deberá implementar una campaña inmediata de acción colectiva orientada a la transformación del; ambiente laboral en un espacio de igualdad y libre de violencias.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 8,
+      "child_index": 5,
+      "child_total": 8,
+      "char_start": 869,
+      "char_count": 397
+    }
+  },
+  {
+    "content": "**Parágrafo 1°**. Corregido por el Decreto Nacional 231 de 2006. Los empleadores deberán adaptar el reglamento de trabajo a los requerimientos de la presente ley, dentro de los tres (4) meses siguientes a su promulgación, y su incumplimiento será sancionado administrativamente por el Código Sustantivo del Trabajo",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 8,
+      "child_index": 6,
+      "child_total": 8,
+      "char_start": 1268,
+      "char_count": 314
+    }
+  },
+  {
+    "content": ". El empleador deberá abrir un escenario para escuchar las opiniones de los trabajadores en la adaptación de que trata este parágrafo, sin que tales opiniones sean obligatorias y sin que eliminen el poder de subordinación laboral.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 8,
+      "child_index": 7,
+      "child_total": 8,
+      "char_start": 1582,
+      "char_count": 230
+    }
+  },
+  {
+    "content": "**Parágrafo 2°**. La omisión en la adopción de medidas preventivas y correctivas de la situación de acoso laboral por parte del empleador o jefes superiores de la administración, se entenderá como tolerancia de la misma.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 9,
+      "child_index": 0,
+      "child_total": 8,
+      "char_start": 0,
+      "char_count": 220
+    }
+  },
+  {
+    "content": "**Parágrafo 3°**. La denuncia a que se refiere el numeral 2 de este artículo podrá acompañarse de la solicitud de traslado a otra dependencia de la misma empresa, si existiera una opción clara en ese sentido, y será sugerida por la autoridad competente como medida correctiva cuando ello fuere posible.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 9,
+      "child_index": 1,
+      "child_total": 8,
+      "char_start": 222,
+      "char_count": 302
+    }
+  },
+  {
+    "content": "**Artículo 10. *Tratamiento sancionatorio al acoso laboral.*** El acoso laboral, cuando estuviere debidamente acreditado, se sancionará así:\n\n1. Como falta disciplinaria gravísima en el Código Disciplinario Unico, cuando su autor sea un servidor público.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 9,
+      "child_index": 2,
+      "child_total": 8,
+      "char_start": 526,
+      "char_count": 254
+    }
+  },
+  {
+    "content": "2. Como terminación del contrato de trabajo sin justa causa, cuando haya dado lugar a la renuncia o el abandono del trabajo por parte del trabajador regido por el Código Sustantivo del Trabajo. En tal caso procede la indemnización en los términos del artículo 64 del Código Sustantivo del Trabajo.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 9,
+      "child_index": 3,
+      "child_total": 8,
+      "char_start": 782,
+      "char_count": 297
+    }
+  },
+  {
+    "content": "3. Con sanción de multa entre dos (2) y diez (10) salarios mínimos legales mensuales para la persona que lo realice y para el empleador que lo tolere.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 9,
+      "child_index": 4,
+      "child_total": 8,
+      "char_start": 1081,
+      "char_count": 150
+    }
+  },
+  {
+    "content": "4. Con la obligación de pagar a las Empresas Prestadoras de Salud y las Aseguradoras de riesgos profesionales el cincuenta por ciento (50%) del costo del tratamiento de enfermedades profesionales, alteraciones de salud y demás secuelas originadas en el acoso laboral",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 9,
+      "child_index": 5,
+      "child_total": 8,
+      "char_start": 1233,
+      "char_count": 266
+    }
+  },
+  {
+    "content": ". Esta obligación corre por cuenta del empleador que haya ocasionado el acoso laboral o lo haya tolerado, sin perjuicio a la atención oportuna y debida al trabajador afectado antes de que la autoridad competente dictamine si su enfermedad ha sido como consecuencia del acoso laboral, y sin perjuicio de las demás acciones consagradas en las normas de seguridad social para las entidades",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 9,
+      "child_index": 6,
+      "child_total": 8,
+      "char_start": 1499,
+      "char_count": 386
+    }
+  },
+  {
+    "content": "perjuicio de las demás acciones consagradas en las normas de seguridad social para las entidades administradoras frente a los empleadores.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 9,
+      "child_index": 7,
+      "child_total": 8,
+      "char_start": 1789,
+      "char_count": 138
+    }
+  },
+  {
+    "content": "5. Con la presunción de justa causa de terminación del contrato de trabajo por parte del trabajador, particular y exoneración del pago de preaviso en caso de renuncia o retiro del trabajo.\n\n6. Como justa causa de terminación o no renovación del contrato de trabajo, según la gravedad de los hechos, cuando el acoso laboral sea ejercido por un compañero de trabajo o un subalterno.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 10,
+      "child_index": 0,
+      "child_total": 7,
+      "char_start": 0,
+      "char_count": 380
+    }
+  },
+  {
+    "content": "**Parágrafo 1**. Los dineros provenientes de las multas impuestas por acoso laboral se destinarán al presupuesto de la entidad pública cuya autoridad la imponga y podrá ser cobrada mediante la jurisdicción coactiva con la debida actualización de valor.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 10,
+      "child_index": 1,
+      "child_total": 7,
+      "char_start": 382,
+      "char_count": 252
+    }
+  },
+  {
+    "content": "**Parágrafo 2.** Durante la investigación disciplinaria o el juzgamiento por conductas constitutivas de acoso laboral, el funcionario que la esté adelantando podrá ordenar motivadamente la suspensión provisional del servidor público, en los términos del artículo 157 de la Ley 734 de 2002, siempre y cuando existan serios indicios de actitudes retaliatorias en contra de la posible víctima.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 10,
+      "child_index": 2,
+      "child_total": 7,
+      "char_start": 636,
+      "char_count": 390
+    }
+  },
+  {
+    "content": "**Artículo 11.** ***Garantías contra actitudes retaliatorias.*** A fin de evitar actos de represalia contra quienes han formulado peticiones, quejas y denuncias de acoso laboral o sirvan de testigos en tales procedimientos, establézcanse las siguientes garantías:",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 10,
+      "child_index": 3,
+      "child_total": 7,
+      "char_start": 1028,
+      "char_count": 263
+    }
+  },
+  {
+    "content": "1",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 10,
+      "child_index": 4,
+      "child_total": 7,
+      "char_start": 394,
+      "char_count": 1
+    }
+  },
+  {
+    "content": ". La terminación unilateral del contrato de trabajo o la destitución de la víctima del acoso laboral que haya ejercido los procedimientos preventivos, correctivos y sancionatorios consagrados en la presente Ley, carecerán de todo efecto cuando se profieran dentro de los seis (6) meses siguientes a la petición o queja, siempre y cuando la autoridad administrativa, judicial o de control competente",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 10,
+      "child_index": 5,
+      "child_total": 7,
+      "char_start": 1294,
+      "char_count": 398
+    }
+  },
+  {
+    "content": "la petición o queja, siempre y cuando la autoridad administrativa, judicial o de control competente verifique la ocurrencia de los hechos puestos en conocimiento.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 10,
+      "child_index": 6,
+      "child_total": 7,
+      "char_start": 1593,
+      "char_count": 162
+    }
+  },
+  {
+    "content": "2. La formulación de denuncia de acoso laboral en una dependencia estatal, podrá provocar el ejercicio del poder preferente a favor del Ministerio Público. En tal caso, la competencia disciplinaria contra el denunciante sólo podrá ser ejercida por dicho órgano de control mientras se decida la acción laboral en la que se discuta tal situación",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 11,
+      "child_index": 0,
+      "child_total": 8,
+      "char_start": 0,
+      "char_count": 343
+    }
+  },
+  {
+    "content": ". Esta garantía no operará cuando el denunciado sea un funcionario de la Rama Judicial.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 11,
+      "child_index": 1,
+      "child_total": 8,
+      "char_start": 343,
+      "char_count": 87
+    }
+  },
+  {
+    "content": "3. Las demás que le otorguen la Constitución, la ley y las convenciones colectivas de trabajo y los pactos colectivos.\n\nLas anteriores garantías cobijarán también a quienes hayan servido como testigos en los procedimientos disciplinarios y administrativos de que trata la presente ley.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 11,
+      "child_index": 2,
+      "child_total": 8,
+      "char_start": 432,
+      "char_count": 285
+    }
+  },
+  {
+    "content": "**Parágrafo.** La garantía de que trata el numeral uno no regirá para los despidos autorizados por el Ministerio de la Protección Social conforme a las leyes, para las sanciones disciplinarias que imponga el Ministerio Público o las Salas Disciplinarias de los Consejos Superiores o Seccionales de la Judicatura, ni para las sanciones disciplinarias que se dicten como consecuencia de procesos",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 11,
+      "child_index": 3,
+      "child_total": 8,
+      "char_start": 719,
+      "char_count": 393
+    }
+  },
+  {
+    "content": "de la Judicatura, ni para las sanciones disciplinarias que se dicten como consecuencia de procesos iniciados antes de la denuncia o queja de acoso laboral.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 11,
+      "child_index": 4,
+      "child_total": 8,
+      "char_start": 1014,
+      "char_count": 155
+    }
+  },
+  {
+    "content": "**Artículo 12.** ***Competencia*.** Corresponde a los jueces de trabajo con jurisdicción en el lugar de los hechos adoptar las medidas sancionatorias que prevé el artículo 10 de la presente Ley, cuando las víctimas del acoso sean trabajadores o empleados particulares.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 11,
+      "child_index": 5,
+      "child_total": 8,
+      "char_start": 1171,
+      "char_count": 268
+    }
+  },
+  {
+    "content": "Cuando la víctima del acoso laboral sea un servidor público, la competencia para conocer de la falta disciplinaria corresponde al Ministerio Público o a las Salas Jurisdiccional Disciplinaria de los Consejos Superior y Seccionales de la Judicatura, conforme a las competencias que señala la ley.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 11,
+      "child_index": 6,
+      "child_total": 8,
+      "char_start": 1441,
+      "char_count": 295
+    }
+  },
+  {
+    "content": "**Artículo 13. *Procedimiento sancionatorio.*** Para la imposición de las sanciones de que trata la presente Ley se seguirá el siguiente procedimiento:",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 11,
+      "child_index": 7,
+      "child_total": 8,
+      "char_start": 1738,
+      "char_count": 151
+    }
+  },
+  {
+    "content": "**Artículo 13. *Procedimiento sancionatorio.*** Para la imposición de las sanciones de que trata la presente Ley se seguirá el siguiente procedimiento:\n\nCuando la competencia para la sanción correspondiere al Ministerio Público se aplicará el procedimiento previsto en el Código Disciplinario único.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 12,
+      "child_index": 0,
+      "child_total": 8,
+      "char_start": 0,
+      "char_count": 299
+    }
+  },
+  {
+    "content": "Cuando la sanción fuere de competencia de los Jueces del Trabajo se citará a audiencia, la cual tendrá lugar dentro de los treinta (30) días siguientes a la presentación de la solicitud o queja. De la iniciación del procedimiento se notificará personalmente al acusado de acoso laboral y al empleador que lo haya tolerado, dentro de los cinco (5) días siguientes al recibo de la solicitud o queja",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 12,
+      "child_index": 1,
+      "child_total": 8,
+      "char_start": 301,
+      "char_count": 396
+    }
+  },
+  {
+    "content": ". Las pruebas se practicarán antes de la audiencia o dentro de ella. La decisión se proferirá al finalizar la audiencia, a la cual solo podrán asistir las partes y los testigos o peritos. Contra la sentencia que ponga fin a esta actuación procederá el recurso de apelación, que se decidirá en los treinta (30) días siguientes a su interposición",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 12,
+      "child_index": 2,
+      "child_total": 8,
+      "char_start": 697,
+      "char_count": 344
+    }
+  },
+  {
+    "content": ". En todo lo no previsto en este artículo se aplicará el Código Procesal del Trabajo.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 12,
+      "child_index": 3,
+      "child_total": 8,
+      "char_start": 1041,
+      "char_count": 85
+    }
+  },
+  {
+    "content": "**Artículo 14",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 12,
+      "child_index": 4,
+      "child_total": 8,
+      "char_start": 1128,
+      "char_count": 13
+    }
+  },
+  {
+    "content": ". *Temeridad de la queja de acoso laboral.*** Cuando, a juicio del Ministerio Público o del juez laboral competente, la queja de acoso laboral carezca de todo fundamento fáctico o razonable, se impondrá a quien la formuló una sanción de multa entre medio y tres salarios mínimos legales mensuales, los cuales se descontarán sucesivamente de la remuneración que el quejoso devengue, durante los seis",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 12,
+      "child_index": 5,
+      "child_total": 8,
+      "char_start": 1141,
+      "char_count": 398
+    }
+  },
+  {
+    "content": "cuales se descontarán sucesivamente de la remuneración que el quejoso devengue, durante los seis (6) meses siguientes a su imposición.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 12,
+      "child_index": 6,
+      "child_total": 8,
+      "char_start": 1443,
+      "char_count": 134
+    }
+  },
+  {
+    "content": "**Jurisprudencia:**\n\n**Texto subrayado declarado INEXEQUIBLE por la Corte Constitucional mediante** Sentencia C-738 de 2006\n\nIgual sanción se impondrá a quien formule más de una denuncia o queja de acoso laboral con base en los mismos hechos.\n\nLos dineros recaudados por tales multas se destinarán a la entidad pública a que pertenece la autoridad que la impuso.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 12,
+      "child_index": 7,
+      "child_total": 8,
+      "char_start": 1579,
+      "char_count": 362
+    }
+  },
+  {
+    "content": "Los dineros recaudados por tales multas se destinarán a la entidad pública a que pertenece la autoridad que la impuso.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 13,
+      "child_index": 0,
+      "child_total": 8,
+      "char_start": 0,
+      "char_count": 118
+    }
+  },
+  {
+    "content": "**Artículo 15.** ***Llamamiento en garantía.*** En los procesos relativos a nulidad y restablecimiento del derecho en los cuales se discutan vicios de legalidad de falsa motivación o desviación de poder, basados en hechos que pudieran ser constitutivos de acoso laboral, la parte demandada podrá, en el término de fijación en lista, llamar en garantía al autor de la conducta de acoso.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 13,
+      "child_index": 1,
+      "child_total": 8,
+      "char_start": 120,
+      "char_count": 385
+    }
+  },
+  {
+    "content": "**Artículo 16.** ***Suspensión de la evaluación y calificación del desempeño laboral.*** Previo dictamen de la entidad promotora de salud EPS a la cual está afiliado el sujeto pasivo del acoso laboral, se suspenderá la evaluación del desempeño por el tiempo que determine el dictamen médico.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 13,
+      "child_index": 2,
+      "child_total": 8,
+      "char_start": 507,
+      "char_count": 291
+    }
+  },
+  {
+    "content": "**Artículo 17.** ***Sujetos procesales.*** Podrán intervenir en la actuación disciplinaria que se adelante por acoso laboral, el investigado y su defensor, el sujeto pasivo o su representante, el Ministerio Público, cuando la actuación se adelante en el Consejo Superior o Seccional de la Judicatura o en el Congreso de la República contra los funcionarios a que se refiere el artículo 174 de la",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 13,
+      "child_index": 3,
+      "child_total": 8,
+      "char_start": 800,
+      "char_count": 395
+    }
+  },
+  {
+    "content": "o en el Congreso de la República contra los funcionarios a que se refiere el artículo 174 de la Constitución Nacional.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 13,
+      "child_index": 4,
+      "child_total": 8,
+      "char_start": 1100,
+      "char_count": 118
+    }
+  },
+  {
+    "content": "**Artículo 18.** Modificado por el art. 1, Ley 2209 de 2022. *\\<El nuevo texto es el siguiente\\> Caducidad.* Las acciones derivadas del acoso laboral caducarán en tres (3) años a partir de la fecha en que hayan ocurrido las conductas a que hace referencia esta Ley.\n\n***El texto original era el siguiente:***",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 13,
+      "child_index": 5,
+      "child_total": 8,
+      "char_start": 1220,
+      "char_count": 308
+    }
+  },
+  {
+    "content": "***El texto original era el siguiente:***\n\n*Artículo 18. Caducidad. Las acciones derivadas del acoso laboral caducarán seis (6) meses después de la fecha en que hayan ocurrido las conductas a que hace referencia esta ley.*\n\n**Artículo 19.** ***Vigencia y derogatoria.*** La presente ley rige a partir de su promulgación y deroga o modifica todas las que le sean contrarias o incompatibles.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 13,
+      "child_index": 6,
+      "child_total": 8,
+      "char_start": 1487,
+      "char_count": 389
+    }
+  },
+  {
+    "content": "**La Presidenta del honorable Senado de la República,**\n\n**Claudia Blum de Barberi.**",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 13,
+      "child_index": 7,
+      "child_total": 8,
+      "char_start": 1878,
+      "char_count": 85
+    }
+  },
+  {
+    "content": "**La Presidenta del honorable Senado de la República,**\n\n**Claudia Blum de Barberi.**\n\n**El Secretario General del honorable Senado de la República,**\n\n**Emilio Ramón Otero Dajud*.***\n\n**El Presidente de la honorable Cámara de Representantes,**\n\n**Julio E. Gallardo Archbold.**\n\n**El Secretario General de la honorable Cámara de Representantes,**\n\n**Angelino Lizcano Rivera*.***",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 14,
+      "child_index": 0,
+      "child_total": 2,
+      "char_start": 0,
+      "char_count": 378
+    }
+  },
+  {
+    "content": "**Angelino Lizcano Rivera*.***\n\n**REPUBLICA DE COLOMBIA - GOBIERNO NACIONAL**\n\n**Publíquese y cúmplase.**\n\n**Dada en Bogotá, D. C., a 23 de enero de 2006.**\n\n**ÁLVARO URIBE VÉLEZ**\n\n**El Ministro de la Protección Social,**\n\n**Diego Palacio Betancour*t.***",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aprobado.Ley 1010 de 2006.md",
+      "numero_ley": "1010",
+      "anio": "2006",
+      "id_norma": "Ley_1010_2006",
+      "entidad": "Congreso de Colombia",
+      "chunk_type": "child",
+      "parent_index": 14,
+      "child_index": 1,
+      "child_total": 2,
+      "char_start": 348,
+      "char_count": 255
+    }
+  }
+]

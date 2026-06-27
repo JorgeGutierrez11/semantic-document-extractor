@@ -1,0 +1,778 @@
+[
+  {
+    "content": "**RESOLUCIÓN 2013 DE 1986**\n\n**(Junio 06)**\n\n***Por la cual se reglamenta la organización y funcionamiento de los Comités de Medicina, Higiene y Seguridad Industrial en los lugares de trabajo***\n\n**Los Ministros de Trabajo y Seguridad Social y de Salud**\n\n**En ejercicio de la facultad que les confiere el artículo 25 de Decreto 614 de 1984**\n\n**RESUELVEN:**\n\n**ARTICULO 1º:** Todas las empresas e instituciones, públicas o privadas, que tengan a su servicio diez (10) o más trabajadores, están obligadas a conformar un Comité de Medicina, Higiene y Seguridad Industrial, cuya organización y funcionamiento estará de acuerdo con las normas del Decreto que se reglamenta y con la presente Resolución\n\n**ARTICULO 2º:** Cada Comité de Medicina, Higiene y Seguridad Industrial estará compuesto por un número igual de representantes del empleador y de los trabajadores, con sus respectivos suplentes, así:\n\n<!-- TABLE_0 -->\n\nA las reuniones del Comité sólo asistirán los miembros principales. Los suplentes asistirán por ausencia de los principales y serán citados a las reuniones por el Presidente del Comité.\n\n**ARTICULO 3º:** Las empresas o establecimientos de trabajo que tengan a su servicio menos de diez (10) trabajadores, deberán actuar en coordinación con los trabajadores para desarrollar bajo la responsabilidad del empleador el programa de salud ocupacional de la empresa.\n\n**ARTICULO 4º:** La empresa que posea dos o más establecimientos de trabajo podrá conformar varios Comités de Medicina, Higiene y Seguridad Industrial para el cumplimiento de lo dispuesto en esta Resolución, uno por cada establecimiento, teniendo en cuenta su organización interna.\n\n**PARÁGRAFO:** Cada Comité estará compuesto por representantes del empleador y los trabajadores según el artículo 2o. de esta Resolución, considerando como número total de trabajadores la suma de los trabajadores de la empresa en el respectivo municipio y municipios vecinos.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 2013 de 1986.md",
+      "numero_ley": "1295",
+      "anio": "1994",
+      "id_norma": "Ley_1295_1994",
+      "chunk_type": "parent",
+      "parent_index": 0,
+      "parent_total": 6,
+      "char_count": 1939
+    },
+    "parent_index": 0,
+    "children": [
+      {
+        "content": "**RESOLUCIÓN 2013 DE 1986**\n\n**(Junio 06)**\n\n***Por la cual se reglamenta la organización y funcionamiento de los Comités de Medicina, Higiene y Seguridad Industrial en los lugares de trabajo***\n\n**Los Ministros de Trabajo y Seguridad Social y de Salud**\n\n**En ejercicio de la facultad que les confiere el artículo 25 de Decreto 614 de 1984**\n\n**RESUELVEN:**",
+        "metadata": {
+          "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 2013 de 1986.md",
+          "numero_ley": "1295",
+          "anio": "1994",
+          "id_norma": "Ley_1295_1994",
+          "chunk_type": "child",
+          "parent_index": 0,
+          "child_index": 0,
+          "child_total": 7,
+          "char_start": 0,
+          "char_count": 358
+        },
+        "child_index": 0,
+        "char_start": 0
+      },
+      {
+        "content": "**RESUELVEN:**\n\n**ARTICULO 1º:** Todas las empresas e instituciones, públicas o privadas, que tengan a su servicio diez (10) o más trabajadores, están obligadas a conformar un Comité de Medicina, Higiene y Seguridad Industrial, cuya organización y funcionamiento estará de acuerdo con las normas del Decreto que se reglamenta y con la presente Resolución",
+        "metadata": {
+          "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 2013 de 1986.md",
+          "numero_ley": "1295",
+          "anio": "1994",
+          "id_norma": "Ley_1295_1994",
+          "chunk_type": "child",
+          "parent_index": 0,
+          "child_index": 1,
+          "child_total": 7,
+          "char_start": 344,
+          "char_count": 354
+        },
+        "child_index": 1,
+        "char_start": 344
+      },
+      {
+        "content": "**ARTICULO 2º:** Cada Comité de Medicina, Higiene y Seguridad Industrial estará compuesto por un número igual de representantes del empleador y de los trabajadores, con sus respectivos suplentes, así:\n\n<!-- TABLE_0 -->",
+        "metadata": {
+          "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 2013 de 1986.md",
+          "numero_ley": "1295",
+          "anio": "1994",
+          "id_norma": "Ley_1295_1994",
+          "chunk_type": "child",
+          "parent_index": 0,
+          "child_index": 2,
+          "child_total": 7,
+          "char_start": 700,
+          "char_count": 218
+        },
+        "child_index": 2,
+        "char_start": 700
+      },
+      {
+        "content": "<!-- TABLE_0 -->\n\nA las reuniones del Comité sólo asistirán los miembros principales. Los suplentes asistirán por ausencia de los principales y serán citados a las reuniones por el Presidente del Comité.",
+        "metadata": {
+          "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 2013 de 1986.md",
+          "numero_ley": "1295",
+          "anio": "1994",
+          "id_norma": "Ley_1295_1994",
+          "chunk_type": "child",
+          "parent_index": 0,
+          "child_index": 3,
+          "child_total": 7,
+          "char_start": 902,
+          "char_count": 203
+        },
+        "child_index": 3,
+        "char_start": 902
+      },
+      {
+        "content": "**ARTICULO 3º:** Las empresas o establecimientos de trabajo que tengan a su servicio menos de diez (10) trabajadores, deberán actuar en coordinación con los trabajadores para desarrollar bajo la responsabilidad del empleador el programa de salud ocupacional de la empresa.",
+        "metadata": {
+          "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 2013 de 1986.md",
+          "numero_ley": "1295",
+          "anio": "1994",
+          "id_norma": "Ley_1295_1994",
+          "chunk_type": "child",
+          "parent_index": 0,
+          "child_index": 4,
+          "child_total": 7,
+          "char_start": 1107,
+          "char_count": 272
+        },
+        "child_index": 4,
+        "char_start": 1107
+      },
+      {
+        "content": "**ARTICULO 4º:** La empresa que posea dos o más establecimientos de trabajo podrá conformar varios Comités de Medicina, Higiene y Seguridad Industrial para el cumplimiento de lo dispuesto en esta Resolución, uno por cada establecimiento, teniendo en cuenta su organización interna.",
+        "metadata": {
+          "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 2013 de 1986.md",
+          "numero_ley": "1295",
+          "anio": "1994",
+          "id_norma": "Ley_1295_1994",
+          "chunk_type": "child",
+          "parent_index": 0,
+          "child_index": 5,
+          "child_total": 7,
+          "char_start": 1381,
+          "char_count": 281
+        },
+        "child_index": 5,
+        "char_start": 1381
+      },
+      {
+        "content": "**PARÁGRAFO:** Cada Comité estará compuesto por representantes del empleador y los trabajadores según el artículo 2o. de esta Resolución, considerando como número total de trabajadores la suma de los trabajadores de la empresa en el respectivo municipio y municipios vecinos.",
+        "metadata": {
+          "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 2013 de 1986.md",
+          "numero_ley": "1295",
+          "anio": "1994",
+          "id_norma": "Ley_1295_1994",
+          "chunk_type": "child",
+          "parent_index": 0,
+          "child_index": 6,
+          "child_total": 7,
+          "char_start": 1664,
+          "char_count": 275
+        },
+        "child_index": 6,
+        "char_start": 1664
+      }
+    ]
+  },
+  {
+    "content": "**ARTICULO 5º:** El empleador nombrará directamente sus representantes al Comité y los trabajadores elegirán los suyos mediante votación libre.\n\n**ARTICULO 6º:** Los miembros del Comité serán elegidos por un año al cabo del cual podrán ser reelegidos.\n\n**ARTICULO 7º:** El Comité de Medicina, Higiene y Seguridad Industrial se reunirá por lo menos una vez al mes en el local de la empresa y durante el horario de trabajo.\n\n**PARÁGRAFO:** En caso de accidente grave o riesgo inminente, el Comité se reunirá con carácter extraordinario y con la presencia del responsable del área donde ocurrió el accidente o se determinó el riesgo, dentro de los cinco días siguientes a la ocurrencia del hecho.\n\n**ARTICULO 8º:** El quórum para sesionar el Comité estará constituido por la mitad más uno de sus miembros. Pasados los primeros treinta (30) minutos de la hora señalada para empezar la reunión del Comité sesionara con los miembros presentes y sus decisiones tendrán plena validez.\n\n**ARTICULO 9º:** El empleador designará anualmente al Presidente del Comité de los representantes que él designa y el Comité en pleno elegirá al Secretario de entre la totalidad de sus miembros.\n\n**ARTICULO 10:** El Comité de Medicina, Higiene y Seguridad Industrial es un organismo de promoción y vigilancia de las normas y reglamentos de salud ocupacional dentro de la empresa y no se ocupará por lo tanto de tramitar asuntos referentes a la relación contractual laboral propiamente dicha, los problemas de personal, disciplinarios o sindicales; ellos se ventilan en otros organismos y están sujetos a reglamentación distinta.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 2013 de 1986.md",
+      "numero_ley": "1295",
+      "anio": "1994",
+      "id_norma": "Ley_1295_1994",
+      "chunk_type": "parent",
+      "parent_index": 1,
+      "parent_total": 6,
+      "char_count": 1606
+    },
+    "parent_index": 1,
+    "children": [
+      {
+        "content": "**ARTICULO 5º:** El empleador nombrará directamente sus representantes al Comité y los trabajadores elegirán los suyos mediante votación libre.\n\n**ARTICULO 6º:** Los miembros del Comité serán elegidos por un año al cabo del cual podrán ser reelegidos.",
+        "metadata": {
+          "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 2013 de 1986.md",
+          "numero_ley": "1295",
+          "anio": "1994",
+          "id_norma": "Ley_1295_1994",
+          "chunk_type": "child",
+          "parent_index": 1,
+          "child_index": 0,
+          "child_total": 7,
+          "char_start": 0,
+          "char_count": 251
+        },
+        "child_index": 0,
+        "char_start": 0
+      },
+      {
+        "content": "**ARTICULO 7º:** El Comité de Medicina, Higiene y Seguridad Industrial se reunirá por lo menos una vez al mes en el local de la empresa y durante el horario de trabajo.",
+        "metadata": {
+          "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 2013 de 1986.md",
+          "numero_ley": "1295",
+          "anio": "1994",
+          "id_norma": "Ley_1295_1994",
+          "chunk_type": "child",
+          "parent_index": 1,
+          "child_index": 1,
+          "child_total": 7,
+          "char_start": 253,
+          "char_count": 168
+        },
+        "child_index": 1,
+        "char_start": 253
+      },
+      {
+        "content": "**PARÁGRAFO:** En caso de accidente grave o riesgo inminente, el Comité se reunirá con carácter extraordinario y con la presencia del responsable del área donde ocurrió el accidente o se determinó el riesgo, dentro de los cinco días siguientes a la ocurrencia del hecho.",
+        "metadata": {
+          "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 2013 de 1986.md",
+          "numero_ley": "1295",
+          "anio": "1994",
+          "id_norma": "Ley_1295_1994",
+          "chunk_type": "child",
+          "parent_index": 1,
+          "child_index": 2,
+          "child_total": 7,
+          "char_start": 423,
+          "char_count": 270
+        },
+        "child_index": 2,
+        "char_start": 423
+      },
+      {
+        "content": "**ARTICULO 8º:** El quórum para sesionar el Comité estará constituido por la mitad más uno de sus miembros. Pasados los primeros treinta (30) minutos de la hora señalada para empezar la reunión del Comité sesionara con los miembros presentes y sus decisiones tendrán plena validez.",
+        "metadata": {
+          "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 2013 de 1986.md",
+          "numero_ley": "1295",
+          "anio": "1994",
+          "id_norma": "Ley_1295_1994",
+          "chunk_type": "child",
+          "parent_index": 1,
+          "child_index": 3,
+          "child_total": 7,
+          "char_start": 695,
+          "char_count": 281
+        },
+        "child_index": 3,
+        "char_start": 695
+      },
+      {
+        "content": "**ARTICULO 9º:** El empleador designará anualmente al Presidente del Comité de los representantes que él designa y el Comité en pleno elegirá al Secretario de entre la totalidad de sus miembros.",
+        "metadata": {
+          "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 2013 de 1986.md",
+          "numero_ley": "1295",
+          "anio": "1994",
+          "id_norma": "Ley_1295_1994",
+          "chunk_type": "child",
+          "parent_index": 1,
+          "child_index": 4,
+          "child_total": 7,
+          "char_start": 978,
+          "char_count": 194
+        },
+        "child_index": 4,
+        "char_start": 978
+      },
+      {
+        "content": "**ARTICULO 10:** El Comité de Medicina, Higiene y Seguridad Industrial es un organismo de promoción y vigilancia de las normas y reglamentos de salud ocupacional dentro de la empresa y no se ocupará por lo tanto de tramitar asuntos referentes a la relación contractual laboral propiamente dicha, los problemas de personal, disciplinarios o sindicales; ellos se ventilan en otros organismos y están",
+        "metadata": {
+          "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 2013 de 1986.md",
+          "numero_ley": "1295",
+          "anio": "1994",
+          "id_norma": "Ley_1295_1994",
+          "chunk_type": "child",
+          "parent_index": 1,
+          "child_index": 5,
+          "child_total": 7,
+          "char_start": 1174,
+          "char_count": 397
+        },
+        "child_index": 5,
+        "char_start": 1174
+      },
+      {
+        "content": "problemas de personal, disciplinarios o sindicales; ellos se ventilan en otros organismos y están sujetos a reglamentación distinta.",
+        "metadata": {
+          "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 2013 de 1986.md",
+          "numero_ley": "1295",
+          "anio": "1994",
+          "id_norma": "Ley_1295_1994",
+          "chunk_type": "child",
+          "parent_index": 1,
+          "child_index": 6,
+          "child_total": 7,
+          "char_start": 1474,
+          "char_count": 132
+        },
+        "child_index": 6,
+        "char_start": 1474
+      }
+    ]
+  },
+  {
+    "content": "**NOTA: Mediante el artículo 63 del Decreto-Ley 1295 de 1994, se cambia la denominación de Comité de Medicina, Higiene y Seguridad Industrial por Comité Paritario de Salud Ocupacional, además de establecer que el periodo de los miembros del Comité sería de dos (2) años. Con posteioridad, el parágrafo 2 del artículo 2 del Decreto Nacional 1443 de 2014, establece que el Comité Paritario de Salud Ocupacional -COPASO, en adelante se denominará Comité Paritario de Seguridad y Salud en el Trabajo ---COPASST.**\n\n**ARTICULO 11:** Son funciones del Comité de Medicina, Higiene y Seguridad Industrial, además de las señaladas por el artículo 26 del Decreto 614 de 1984, las siguientes:\n\n**a.** Proponer a la administración de la empresa o establecimiento de trabajo la adopción de medidas y el desarrollo de actividades que procuren y mantengan la salud en los lugares y ambientes de trabajo.\n\n**b.** Proponer y participar en actividades de capacitación en salud ocupacional dirigidas a trabajadores, supervisores y directivos de la empresa o establecimiento de trabajo.\n\n**c.** Colaborar con los funcionarios de entidades gubernamentales de salud ocupacional en las actividades que éstos adelanten en la empresa y recibir por derecho propio los informes correspondientes.\n\n**d.** Vigilar el desarrollo de las actividades que en materia de medicina, higiene y seguridad industrial debe realizar la empresa de acuerdo con el Reglamento de Higiene y Seguridad Industrial y las normas vigentes; promover su divulgación y observancia.\n\n**e.** Colaborar en el análisis de las causas de los accidentes de trabajo y enfermedades profesionales y proponer al empleador las medidas correctivas que haya lugar para evitar su ocurrencia. Evaluar los programas que se hayan realizado.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 2013 de 1986.md",
+      "numero_ley": "1295",
+      "anio": "1994",
+      "id_norma": "Ley_1295_1994",
+      "chunk_type": "parent",
+      "parent_index": 2,
+      "parent_total": 6,
+      "char_count": 1767
+    },
+    "parent_index": 2,
+    "children": [
+      {
+        "content": "**NOTA: Mediante el artículo 63 del Decreto-Ley 1295 de 1994, se cambia la denominación de Comité de Medicina, Higiene y Seguridad Industrial por Comité Paritario de Salud Ocupacional, además de establecer que el periodo de los miembros del Comité sería de dos (2) años",
+        "metadata": {
+          "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 2013 de 1986.md",
+          "numero_ley": "1295",
+          "anio": "1994",
+          "id_norma": "Ley_1295_1994",
+          "chunk_type": "child",
+          "parent_index": 2,
+          "child_index": 0,
+          "child_total": 6,
+          "char_start": 0,
+          "char_count": 269
+        },
+        "child_index": 0,
+        "char_start": 0
+      },
+      {
+        "content": ". Con posteioridad, el parágrafo 2 del artículo 2 del Decreto Nacional 1443 de 2014, establece que el Comité Paritario de Salud Ocupacional -COPASO, en adelante se denominará Comité Paritario de Seguridad y Salud en el Trabajo ---COPASST.**",
+        "metadata": {
+          "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 2013 de 1986.md",
+          "numero_ley": "1295",
+          "anio": "1994",
+          "id_norma": "Ley_1295_1994",
+          "chunk_type": "child",
+          "parent_index": 2,
+          "child_index": 1,
+          "child_total": 6,
+          "char_start": 269,
+          "char_count": 240
+        },
+        "child_index": 1,
+        "char_start": 269
+      },
+      {
+        "content": "**ARTICULO 11:** Son funciones del Comité de Medicina, Higiene y Seguridad Industrial, además de las señaladas por el artículo 26 del Decreto 614 de 1984, las siguientes:\n\n**a.** Proponer a la administración de la empresa o establecimiento de trabajo la adopción de medidas y el desarrollo de actividades que procuren y mantengan la salud en los lugares y ambientes de trabajo.",
+        "metadata": {
+          "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 2013 de 1986.md",
+          "numero_ley": "1295",
+          "anio": "1994",
+          "id_norma": "Ley_1295_1994",
+          "chunk_type": "child",
+          "parent_index": 2,
+          "child_index": 2,
+          "child_total": 6,
+          "char_start": 511,
+          "char_count": 377
+        },
+        "child_index": 2,
+        "char_start": 511
+      },
+      {
+        "content": "**b.** Proponer y participar en actividades de capacitación en salud ocupacional dirigidas a trabajadores, supervisores y directivos de la empresa o establecimiento de trabajo.\n\n**c.** Colaborar con los funcionarios de entidades gubernamentales de salud ocupacional en las actividades que éstos adelanten en la empresa y recibir por derecho propio los informes correspondientes.",
+        "metadata": {
+          "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 2013 de 1986.md",
+          "numero_ley": "1295",
+          "anio": "1994",
+          "id_norma": "Ley_1295_1994",
+          "chunk_type": "child",
+          "parent_index": 2,
+          "child_index": 3,
+          "child_total": 6,
+          "char_start": 890,
+          "char_count": 378
+        },
+        "child_index": 3,
+        "char_start": 890
+      },
+      {
+        "content": "**d.** Vigilar el desarrollo de las actividades que en materia de medicina, higiene y seguridad industrial debe realizar la empresa de acuerdo con el Reglamento de Higiene y Seguridad Industrial y las normas vigentes; promover su divulgación y observancia.",
+        "metadata": {
+          "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 2013 de 1986.md",
+          "numero_ley": "1295",
+          "anio": "1994",
+          "id_norma": "Ley_1295_1994",
+          "chunk_type": "child",
+          "parent_index": 2,
+          "child_index": 4,
+          "child_total": 6,
+          "char_start": 1270,
+          "char_count": 256
+        },
+        "child_index": 4,
+        "char_start": 1270
+      },
+      {
+        "content": "**e.** Colaborar en el análisis de las causas de los accidentes de trabajo y enfermedades profesionales y proponer al empleador las medidas correctivas que haya lugar para evitar su ocurrencia. Evaluar los programas que se hayan realizado.",
+        "metadata": {
+          "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 2013 de 1986.md",
+          "numero_ley": "1295",
+          "anio": "1994",
+          "id_norma": "Ley_1295_1994",
+          "chunk_type": "child",
+          "parent_index": 2,
+          "child_index": 5,
+          "child_total": 6,
+          "char_start": 1528,
+          "char_count": 239
+        },
+        "child_index": 5,
+        "char_start": 1528
+      }
+    ]
+  },
+  {
+    "content": "**f.** Visitar periódicamente los lugares de trabajo e inspeccionar los ambientes, máquinas, equipos, aparatos y las operaciones realizadas por el personal de trabajadores en cada área o sección de la empresa e informar al empleador sobre la existencia de factores de riesgo y sugerir las medidas correctivas y de control.\n\n**g.** Estudiar y considerar las sugerencias que presenten los trabajadores en materia de medicina, higiene y seguridad industrial.\n\n**h.** Servir como organismo de coordinación entre empleador y los trabajadores en la solución de los problemas relativos a la salud ocupacional. Tramitar los reclamos de los trabajadores relacionados con la salud ocupacional.\n\n**i.** Solicitar periódicamente a la empresa informes sobre accidentalidad y enfermedades profesionales con el objeto de dar cumplimiento a lo estipulado en la presente Resolución.\n\n**j.** Elegir al Secretario del Comité.\n\n**k.** Mantener un archivo de las actas de cada reunión y demás actividades que se desarrollen el cual estará en cualquier momento a disposición del empleador, los trabajadores y las autoridades competentes.\n\n**l.** Las demás funciones que le señalen las normas sobre salud ocupacional.\n\n**ARTICULO 12:** Son funciones del Presidente del Comité.\n\n**a.** Presidir y orientar las reuniones en forma dinámica y eficaz.\n\n**b*.*** Llevar a cabo los arreglos necesarios para determinar el lugar o sitio de las reuniones.\n\n**c.** Notificar lo escrito a los miembros del Comité sobre convocatoria a las reuniones por lo menos un vez al mes.\n\n**d.** Preparar los temas que van a tratarse en cada reunión.\n\n**e.** Tramitar ante la administración de la empresa las recomendaciones aprobadas en el seno del Comité y darle a conocer todas sus actividades.\n\n**f.** Coordinar todo lo necesario para la buena marcha del Comité e informar a los trabajadores de la empresa, acerca de las actividades del mismo.\n\n**ARTICULO 13:** Son funciones del Secretario:",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 2013 de 1986.md",
+      "numero_ley": "1295",
+      "anio": "1994",
+      "id_norma": "Ley_1295_1994",
+      "chunk_type": "parent",
+      "parent_index": 3,
+      "parent_total": 6,
+      "char_count": 1948
+    },
+    "parent_index": 3,
+    "children": [
+      {
+        "content": "**f.** Visitar periódicamente los lugares de trabajo e inspeccionar los ambientes, máquinas, equipos, aparatos y las operaciones realizadas por el personal de trabajadores en cada área o sección de la empresa e informar al empleador sobre la existencia de factores de riesgo y sugerir las medidas correctivas y de control.",
+        "metadata": {
+          "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 2013 de 1986.md",
+          "numero_ley": "1295",
+          "anio": "1994",
+          "id_norma": "Ley_1295_1994",
+          "chunk_type": "child",
+          "parent_index": 3,
+          "child_index": 0,
+          "child_total": 7,
+          "char_start": 0,
+          "char_count": 322
+        },
+        "child_index": 0,
+        "char_start": 0
+      },
+      {
+        "content": "**g.** Estudiar y considerar las sugerencias que presenten los trabajadores en materia de medicina, higiene y seguridad industrial.\n\n**h.** Servir como organismo de coordinación entre empleador y los trabajadores en la solución de los problemas relativos a la salud ocupacional. Tramitar los reclamos de los trabajadores relacionados con la salud ocupacional.",
+        "metadata": {
+          "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 2013 de 1986.md",
+          "numero_ley": "1295",
+          "anio": "1994",
+          "id_norma": "Ley_1295_1994",
+          "chunk_type": "child",
+          "parent_index": 3,
+          "child_index": 1,
+          "child_total": 7,
+          "char_start": 324,
+          "char_count": 359
+        },
+        "child_index": 1,
+        "char_start": 324
+      },
+      {
+        "content": "**i.** Solicitar periódicamente a la empresa informes sobre accidentalidad y enfermedades profesionales con el objeto de dar cumplimiento a lo estipulado en la presente Resolución.\n\n**j.** Elegir al Secretario del Comité.",
+        "metadata": {
+          "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 2013 de 1986.md",
+          "numero_ley": "1295",
+          "anio": "1994",
+          "id_norma": "Ley_1295_1994",
+          "chunk_type": "child",
+          "parent_index": 3,
+          "child_index": 2,
+          "child_total": 7,
+          "char_start": 685,
+          "char_count": 221
+        },
+        "child_index": 2,
+        "char_start": 685
+      },
+      {
+        "content": "**j.** Elegir al Secretario del Comité.\n\n**k.** Mantener un archivo de las actas de cada reunión y demás actividades que se desarrollen el cual estará en cualquier momento a disposición del empleador, los trabajadores y las autoridades competentes.\n\n**l.** Las demás funciones que le señalen las normas sobre salud ocupacional.\n\n**ARTICULO 12:** Son funciones del Presidente del Comité.",
+        "metadata": {
+          "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 2013 de 1986.md",
+          "numero_ley": "1295",
+          "anio": "1994",
+          "id_norma": "Ley_1295_1994",
+          "chunk_type": "child",
+          "parent_index": 3,
+          "child_index": 3,
+          "child_total": 7,
+          "char_start": 867,
+          "char_count": 386
+        },
+        "child_index": 3,
+        "char_start": 867
+      },
+      {
+        "content": "**ARTICULO 12:** Son funciones del Presidente del Comité.\n\n**a.** Presidir y orientar las reuniones en forma dinámica y eficaz.\n\n**b*.*** Llevar a cabo los arreglos necesarios para determinar el lugar o sitio de las reuniones.\n\n**c.** Notificar lo escrito a los miembros del Comité sobre convocatoria a las reuniones por lo menos un vez al mes.",
+        "metadata": {
+          "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 2013 de 1986.md",
+          "numero_ley": "1295",
+          "anio": "1994",
+          "id_norma": "Ley_1295_1994",
+          "chunk_type": "child",
+          "parent_index": 3,
+          "child_index": 4,
+          "child_total": 7,
+          "char_start": 1196,
+          "char_count": 344
+        },
+        "child_index": 4,
+        "char_start": 1196
+      },
+      {
+        "content": "**d.** Preparar los temas que van a tratarse en cada reunión.\n\n**e.** Tramitar ante la administración de la empresa las recomendaciones aprobadas en el seno del Comité y darle a conocer todas sus actividades.\n\n**f.** Coordinar todo lo necesario para la buena marcha del Comité e informar a los trabajadores de la empresa, acerca de las actividades del mismo.",
+        "metadata": {
+          "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 2013 de 1986.md",
+          "numero_ley": "1295",
+          "anio": "1994",
+          "id_norma": "Ley_1295_1994",
+          "chunk_type": "child",
+          "parent_index": 3,
+          "child_index": 5,
+          "child_total": 7,
+          "char_start": 1542,
+          "char_count": 358
+        },
+        "child_index": 5,
+        "char_start": 1542
+      },
+      {
+        "content": "**ARTICULO 13:** Son funciones del Secretario:",
+        "metadata": {
+          "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 2013 de 1986.md",
+          "numero_ley": "1295",
+          "anio": "1994",
+          "id_norma": "Ley_1295_1994",
+          "chunk_type": "child",
+          "parent_index": 3,
+          "child_index": 6,
+          "child_total": 7,
+          "char_start": 1902,
+          "char_count": 46
+        },
+        "child_index": 6,
+        "char_start": 1902
+      }
+    ]
+  },
+  {
+    "content": "**f.** Coordinar todo lo necesario para la buena marcha del Comité e informar a los trabajadores de la empresa, acerca de las actividades del mismo.\n\n**ARTICULO 13:** Son funciones del Secretario:\n\n**a.** Verificar la asistencia de los miembros del Comité a las reuniones programadas.\n\n**b.** Tomar nota de los temas tratados, elaborar el acta de cada reunión y someterla a la discusión y aprobación del Comité.\n\n**c.** Llevar el archivo referente a las actividades desarrolladas por el Comité y suministrar toda la información que requieran el empleador y los trabajadores.\n\n**ARTICULO 14:** Son obligaciones del empleador:\n\n**a.** Propiciar la elección de los representantes de los trabajadores al Comité, de acuerdo con lo ordenado en el articulo 2o., de esta Resolución, garantizando la libertad y oportunidad de las votaciones.\n\n**b.** Designar sus representantes al Comité de Medicina, Higiene y Seguridad Industrial.\n\n**c.** Designar al Presidente del Comité.\n\n**d.** Proporcionar los medios necesarios para el normal desempeño de las funciones del Comité.\n\n**e.** Estudiar las recomendaciones emanadas del Comité y determinar la adopción de las medidas más convenientes o informarle las decisiones tomadas al respecto.\n\n**ARTICULO 15:** Son obligaciones de los trabajadores:\n\n**a.** Elegir libremente sus representantes al Comité de Medicina, Higiene y Seguridad en el trabajo y con los reglamentos e instrucciones de servicio ordenados por el empleador.\n\n**b.** Informar al Comité de las situaciones de riesgo que se presenten y manifestar sus sugerencias para el mejoramiento de las condiciones de salud ocupacional en la empresa.\n\n**c.** Cumplir con las normas de medicina, higiene y seguridad en el trabajo y con los reglamentos e instrucciones de servicios ordenados por el empleador.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 2013 de 1986.md",
+      "numero_ley": "1295",
+      "anio": "1994",
+      "id_norma": "Ley_1295_1994",
+      "chunk_type": "parent",
+      "parent_index": 4,
+      "parent_total": 6,
+      "char_count": 1797
+    },
+    "parent_index": 4,
+    "children": [
+      {
+        "content": "**f.** Coordinar todo lo necesario para la buena marcha del Comité e informar a los trabajadores de la empresa, acerca de las actividades del mismo.\n\n**ARTICULO 13:** Son funciones del Secretario:\n\n**a.** Verificar la asistencia de los miembros del Comité a las reuniones programadas.",
+        "metadata": {
+          "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 2013 de 1986.md",
+          "numero_ley": "1295",
+          "anio": "1994",
+          "id_norma": "Ley_1295_1994",
+          "chunk_type": "child",
+          "parent_index": 4,
+          "child_index": 0,
+          "child_total": 6,
+          "char_start": 0,
+          "char_count": 284
+        },
+        "child_index": 0,
+        "char_start": 0
+      },
+      {
+        "content": "**a.** Verificar la asistencia de los miembros del Comité a las reuniones programadas.\n\n**b.** Tomar nota de los temas tratados, elaborar el acta de cada reunión y someterla a la discusión y aprobación del Comité.\n\n**c.** Llevar el archivo referente a las actividades desarrolladas por el Comité y suministrar toda la información que requieran el empleador y los trabajadores.",
+        "metadata": {
+          "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 2013 de 1986.md",
+          "numero_ley": "1295",
+          "anio": "1994",
+          "id_norma": "Ley_1295_1994",
+          "chunk_type": "child",
+          "parent_index": 4,
+          "child_index": 1,
+          "child_total": 6,
+          "char_start": 198,
+          "char_count": 376
+        },
+        "child_index": 1,
+        "char_start": 198
+      },
+      {
+        "content": "**ARTICULO 14:** Son obligaciones del empleador:\n\n**a.** Propiciar la elección de los representantes de los trabajadores al Comité, de acuerdo con lo ordenado en el articulo 2o., de esta Resolución, garantizando la libertad y oportunidad de las votaciones.\n\n**b.** Designar sus representantes al Comité de Medicina, Higiene y Seguridad Industrial.\n\n**c.** Designar al Presidente del Comité.",
+        "metadata": {
+          "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 2013 de 1986.md",
+          "numero_ley": "1295",
+          "anio": "1994",
+          "id_norma": "Ley_1295_1994",
+          "chunk_type": "child",
+          "parent_index": 4,
+          "child_index": 2,
+          "child_total": 6,
+          "char_start": 576,
+          "char_count": 390
+        },
+        "child_index": 2,
+        "char_start": 576
+      },
+      {
+        "content": "**c.** Designar al Presidente del Comité.\n\n**d.** Proporcionar los medios necesarios para el normal desempeño de las funciones del Comité.\n\n**e.** Estudiar las recomendaciones emanadas del Comité y determinar la adopción de las medidas más convenientes o informarle las decisiones tomadas al respecto.\n\n**ARTICULO 15:** Son obligaciones de los trabajadores:",
+        "metadata": {
+          "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 2013 de 1986.md",
+          "numero_ley": "1295",
+          "anio": "1994",
+          "id_norma": "Ley_1295_1994",
+          "chunk_type": "child",
+          "parent_index": 4,
+          "child_index": 3,
+          "child_total": 6,
+          "char_start": 925,
+          "char_count": 357
+        },
+        "child_index": 3,
+        "char_start": 925
+      },
+      {
+        "content": "**ARTICULO 15:** Son obligaciones de los trabajadores:\n\n**a.** Elegir libremente sus representantes al Comité de Medicina, Higiene y Seguridad en el trabajo y con los reglamentos e instrucciones de servicio ordenados por el empleador.",
+        "metadata": {
+          "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 2013 de 1986.md",
+          "numero_ley": "1295",
+          "anio": "1994",
+          "id_norma": "Ley_1295_1994",
+          "chunk_type": "child",
+          "parent_index": 4,
+          "child_index": 4,
+          "child_total": 6,
+          "char_start": 1228,
+          "char_count": 234
+        },
+        "child_index": 4,
+        "char_start": 1228
+      },
+      {
+        "content": "**b.** Informar al Comité de las situaciones de riesgo que se presenten y manifestar sus sugerencias para el mejoramiento de las condiciones de salud ocupacional en la empresa.\n\n**c.** Cumplir con las normas de medicina, higiene y seguridad en el trabajo y con los reglamentos e instrucciones de servicios ordenados por el empleador.",
+        "metadata": {
+          "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 2013 de 1986.md",
+          "numero_ley": "1295",
+          "anio": "1994",
+          "id_norma": "Ley_1295_1994",
+          "chunk_type": "child",
+          "parent_index": 4,
+          "child_index": 5,
+          "child_total": 6,
+          "char_start": 1464,
+          "char_count": 333
+        },
+        "child_index": 5,
+        "char_start": 1464
+      }
+    ]
+  },
+  {
+    "content": "**c.** Cumplir con las normas de medicina, higiene y seguridad en el trabajo y con los reglamentos e instrucciones de servicios ordenados por el empleador.\n\n**ARTICULO 16:** Cuando dos o más empleadores adelanten labores en el mismo lugar, podrán convocar a acciones conjuntas, a los respectivos Comités de Medicina, Higiene y Seguridad Industrial y adoptar de común acuerdo las medidas más convenientes para la salud y la seguridad de los trabajadores.\n\n**PARÁGRAFO:** Se procederá en la forma indicada en este artículo cuando concurran contratantes, contratistas y subcontratistas en un mismo lugar de trabajo.\n\n**ARTICULO 17:** La entidad gubernamental que ejerza en el lugar funciones de vigilancia de acuerdo con el Decreto 614 de 1984, controlará el cumplimiento de la presente Resolución y comunicará su violación a la División de Salud Ocupacional del Ministerio de Trabajo y Seguridad Social.\n\n**ARTICULO 18:** Los Comités de Medicina, Higiene y Seguridad Industrial existentes actualmente seguirán funcionando hasta la terminación del periodo para el cual fueron elegidos, cuando se renovarán de acuerdo con lo dispuesto en esta Resolución.\n\n**ARTICULO 19:** Esta resolución rige a partir de la fecha de su publicación y deroga la Resolución 1405 de marzo de 1980 emanada de la Dirección General de la Seguridad Social y las demás disposiciones que le sean contrarias.\n\n**PUBLIQUESE COMUNIQUESE Y CUMPLASE.**\n\n**Dada en Santafé de Bogotá a los 06 días del mes de junio del año 1986.**\n\n**GERMAN BULA ESCOBAR**\n\n**Ministro de Trabajo y Seguridad Social (E)**\n\n**EFRAIN OTERO RUIZ**\n\n**Ministro de Salud**\n\n**GUIDO TABORDA FERNANDEZ**\n\n**Secretario General (E)**\n\n**Ministerio de Trabajo y Seguridad Social**\n\n**RICARDO GALAN MORENA**\n\n**Secretario General**\n\n**Ministerio de Salud**",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 2013 de 1986.md",
+      "numero_ley": "1295",
+      "anio": "1994",
+      "id_norma": "Ley_1295_1994",
+      "chunk_type": "parent",
+      "parent_index": 5,
+      "parent_total": 6,
+      "char_count": 1791
+    },
+    "parent_index": 5,
+    "children": [
+      {
+        "content": "**c.** Cumplir con las normas de medicina, higiene y seguridad en el trabajo y con los reglamentos e instrucciones de servicios ordenados por el empleador.",
+        "metadata": {
+          "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 2013 de 1986.md",
+          "numero_ley": "1295",
+          "anio": "1994",
+          "id_norma": "Ley_1295_1994",
+          "chunk_type": "child",
+          "parent_index": 5,
+          "child_index": 0,
+          "child_total": 7,
+          "char_start": 0,
+          "char_count": 155
+        },
+        "child_index": 0,
+        "char_start": 0
+      },
+      {
+        "content": "**ARTICULO 16:** Cuando dos o más empleadores adelanten labores en el mismo lugar, podrán convocar a acciones conjuntas, a los respectivos Comités de Medicina, Higiene y Seguridad Industrial y adoptar de común acuerdo las medidas más convenientes para la salud y la seguridad de los trabajadores.",
+        "metadata": {
+          "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 2013 de 1986.md",
+          "numero_ley": "1295",
+          "anio": "1994",
+          "id_norma": "Ley_1295_1994",
+          "chunk_type": "child",
+          "parent_index": 5,
+          "child_index": 1,
+          "child_total": 7,
+          "char_start": 157,
+          "char_count": 296
+        },
+        "child_index": 1,
+        "char_start": 157
+      },
+      {
+        "content": "**PARÁGRAFO:** Se procederá en la forma indicada en este artículo cuando concurran contratantes, contratistas y subcontratistas en un mismo lugar de trabajo.",
+        "metadata": {
+          "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 2013 de 1986.md",
+          "numero_ley": "1295",
+          "anio": "1994",
+          "id_norma": "Ley_1295_1994",
+          "chunk_type": "child",
+          "parent_index": 5,
+          "child_index": 2,
+          "child_total": 7,
+          "char_start": 455,
+          "char_count": 157
+        },
+        "child_index": 2,
+        "char_start": 455
+      },
+      {
+        "content": "**ARTICULO 17:** La entidad gubernamental que ejerza en el lugar funciones de vigilancia de acuerdo con el Decreto 614 de 1984, controlará el cumplimiento de la presente Resolución y comunicará su violación a la División de Salud Ocupacional del Ministerio de Trabajo y Seguridad Social.",
+        "metadata": {
+          "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 2013 de 1986.md",
+          "numero_ley": "1295",
+          "anio": "1994",
+          "id_norma": "Ley_1295_1994",
+          "chunk_type": "child",
+          "parent_index": 5,
+          "child_index": 3,
+          "child_total": 7,
+          "char_start": 614,
+          "char_count": 287
+        },
+        "child_index": 3,
+        "char_start": 614
+      },
+      {
+        "content": "**ARTICULO 18:** Los Comités de Medicina, Higiene y Seguridad Industrial existentes actualmente seguirán funcionando hasta la terminación del periodo para el cual fueron elegidos, cuando se renovarán de acuerdo con lo dispuesto en esta Resolución.",
+        "metadata": {
+          "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 2013 de 1986.md",
+          "numero_ley": "1295",
+          "anio": "1994",
+          "id_norma": "Ley_1295_1994",
+          "chunk_type": "child",
+          "parent_index": 5,
+          "child_index": 4,
+          "child_total": 7,
+          "char_start": 903,
+          "char_count": 247
+        },
+        "child_index": 4,
+        "char_start": 903
+      },
+      {
+        "content": "**ARTICULO 19:** Esta resolución rige a partir de la fecha de su publicación y deroga la Resolución 1405 de marzo de 1980 emanada de la Dirección General de la Seguridad Social y las demás disposiciones que le sean contrarias.\n\n**PUBLIQUESE COMUNIQUESE Y CUMPLASE.**\n\n**Dada en Santafé de Bogotá a los 06 días del mes de junio del año 1986.**\n\n**GERMAN BULA ESCOBAR**",
+        "metadata": {
+          "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 2013 de 1986.md",
+          "numero_ley": "1295",
+          "anio": "1994",
+          "id_norma": "Ley_1295_1994",
+          "chunk_type": "child",
+          "parent_index": 5,
+          "child_index": 5,
+          "child_total": 7,
+          "char_start": 1152,
+          "char_count": 367
+        },
+        "child_index": 5,
+        "char_start": 1152
+      },
+      {
+        "content": "**GERMAN BULA ESCOBAR**\n\n**Ministro de Trabajo y Seguridad Social (E)**\n\n**EFRAIN OTERO RUIZ**\n\n**Ministro de Salud**\n\n**GUIDO TABORDA FERNANDEZ**\n\n**Secretario General (E)**\n\n**Ministerio de Trabajo y Seguridad Social**\n\n**RICARDO GALAN MORENA**\n\n**Secretario General**\n\n**Ministerio de Salud**",
+        "metadata": {
+          "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 2013 de 1986.md",
+          "numero_ley": "1295",
+          "anio": "1994",
+          "id_norma": "Ley_1295_1994",
+          "chunk_type": "child",
+          "parent_index": 5,
+          "child_index": 6,
+          "child_total": 7,
+          "char_start": 1496,
+          "char_count": 295
+        },
+        "child_index": 6,
+        "char_start": 1496
+      }
+    ]
+  }
+]

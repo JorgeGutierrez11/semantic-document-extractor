@@ -1,0 +1,1247 @@
+[
+  {
+    "content": "**RESOLUCION 1401 DE 2007**\n\n**(Mayo 14)**\n\n**Por la cual se reglamenta la investigación de incidentes y accidentes de trabajo.**\n\n**EL MINISTRO DE LA PROTECCIÓN SOCIAL,**\n\n**en ejercicio de sus facultades legales, en especial de las que le confieren el artículo 83 de la Ley 9a de 1979 y el numeral 12 del artículo 2º del Decreto Ley 205 de 2003,**\n\n**CONSIDERANDO:**",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 0,
+      "child_index": 0,
+      "child_total": 7,
+      "char_start": 0,
+      "char_count": 368
+    }
+  },
+  {
+    "content": "**CONSIDERANDO:**\n\nQue corresponde al Ministerio de la Protección Social, definir políticas y programas de prevención en materia de riesgos profesionales, para lo cual se requiere contar con información periódica y veraz, sobre las contingencias de origen profesional ocurridas a los trabajadores dependientes e independientes.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 0,
+      "child_index": 1,
+      "child_total": 7,
+      "char_start": 351,
+      "char_count": 327
+    }
+  },
+  {
+    "content": "Que el Consejo Nacional de Riesgos Profesionales, en su función de recomendar las normas técnicas de salud ocupacional que regulan el control de los factores de riesgo, creó mediante el Acuerdo número 004 de 2001 la Comisión para el Desarrollo de Normas Técnicas de Protección de la Salud de los Trabajadores, la cual estableció como prioridad reglamentar, entre otros temas, la investigación de los",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 0,
+      "child_index": 2,
+      "child_total": 7,
+      "char_start": 680,
+      "char_count": 399
+    }
+  },
+  {
+    "content": "la cual estableció como prioridad reglamentar, entre otros temas, la investigación de los accidentes e incidentes de trabajo;",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 0,
+      "child_index": 3,
+      "child_total": 7,
+      "char_start": 990,
+      "char_count": 125
+    }
+  },
+  {
+    "content": "Que la investigación de los accidentes e incidentes de trabajo tiene, como objetivo principal, prevenir la ocurrencia de nuevos eventos, lo cual conlleva mejorar la calidad de vida de los trabajadores y la productividad de las empresas;",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 0,
+      "child_index": 4,
+      "child_total": 7,
+      "char_start": 1117,
+      "char_count": 236
+    }
+  },
+  {
+    "content": "Que corresponde al Ministerio de la Protección Social, unificar las variables para la investigación de accidentes e incidentes de trabajo, para que sus resultados puedan ser aplicados en el desarrollo de sistemas de vigilancia epidemiológica y en la recolección y análisis de información estadística;",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 0,
+      "child_index": 5,
+      "child_total": 7,
+      "char_start": 370,
+      "char_count": 300
+    }
+  },
+  {
+    "content": "Que es deber de los aportantes, de las administradoras de riesgos profesionales y del Ministerio de la Protección Social, realizar la evaluación estandarizada de los informes de investigación de accidentes e incidentes de trabajo;",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 0,
+      "child_index": 6,
+      "child_total": 7,
+      "char_start": 1657,
+      "char_count": 230
+    }
+  },
+  {
+    "content": "Que en desarrollo de los programas de salud ocupacional, los aportantes deben investigar y analizar las causas de los incidentes y accidentes de trabajo, con el objeto de aplicar las medidas correctivas necesarias y de elaborar, analizar y mantener actualizadas las estadísticas;",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 1,
+      "child_index": 0,
+      "child_total": 7,
+      "char_start": 0,
+      "char_count": 279
+    }
+  },
+  {
+    "content": "Que conforme lo dispone el artículo 4° del Decreto 1530 de 1996, los comités paritarios de salud ocupacional o vigías ocupacionales deben participar en la investigación de los accidentes de trabajo mortales que ocurran en las empresas donde laboran;\n\nQue en mérito de lo expuesto, este despacho\n\n**RESUELVE:**\n\n**CAPITULO I**\n\n**Generalidades**",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 1,
+      "child_index": 1,
+      "child_total": 7,
+      "char_start": 281,
+      "char_count": 344
+    }
+  },
+  {
+    "content": "**Artículo 1°",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 1,
+      "child_index": 2,
+      "child_total": 7,
+      "char_start": 627,
+      "char_count": 13
+    }
+  },
+  {
+    "content": ". Campo de aplicación.** La presente resolución se aplica a los empleadores públicos y privados, a los trabajadores dependientes e independientes, a los contratantes de personal bajo modalidad de contrato civil, comercial o administrativo, a las organizaciones de economía solidaria y del sector cooperativo, a las agremiaciones u asociaciones que afilian trabajadores independientes al Sistema de",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 1,
+      "child_index": 3,
+      "child_total": 7,
+      "char_start": 640,
+      "char_count": 397
+    }
+  },
+  {
+    "content": "a las agremiaciones u asociaciones que afilian trabajadores independientes al Sistema de Seguridad Social Integral; a las administradoras de riesgos profesionales; a la Policía Nacional en lo que corresponde a su personal no uniformado y al personal civil de las fuerzas militares.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 1,
+      "child_index": 4,
+      "child_total": 7,
+      "char_start": 949,
+      "char_count": 281
+    }
+  },
+  {
+    "content": "**Artículo 2°. Objeto.** Establecer obligaciones y requisitos mínimos para realizar la investigación de incidentes y accidentes de trabajo, con el fin de identificar las causas, hechos y situaciones que los han generado, e implementar las medidas correctivas encaminadas a eliminar o minimizar condiciones de riesgo y evitar su recurrencia.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 1,
+      "child_index": 5,
+      "child_total": 7,
+      "char_start": 1232,
+      "char_count": 340
+    }
+  },
+  {
+    "content": "**Artículo 3°. Definiciones.** Para efecto de lo previsto en la presente resolución, se adoptan las siguientes definiciones:\n\n**Incidente de trabajo:** Suceso acaecido en el curso del trabajo o en relación con este, que tuvo el potencial de ser un accidente, en el que hubo personas involucradas sin que sufrieran lesiones o se presentaran daños a la propiedad y/o pérdida en los procesos.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 1,
+      "child_index": 6,
+      "child_total": 7,
+      "char_start": 1574,
+      "char_count": 389
+    }
+  },
+  {
+    "content": "**Investigación de accidente o incidente:** Proceso sistemático de determinación y ordenación de causas, hechos o situaciones que generaron o favorecieron la ocurrencia del accidente o incidente, que se realiza con el objeto de prevenir su repetición, mediante el control de los riesgos que lo produjeron.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 2,
+      "child_index": 0,
+      "child_total": 7,
+      "char_start": 0,
+      "char_count": 305
+    }
+  },
+  {
+    "content": "**Causas básicas:** Causas reales que se manifiestan detrás de los síntomas; razones por las cuales ocurren los actos y condiciones subestándares o inseguros; factores que una vez identificados permiten un control administrativo significativo.\n\nLas causas básicas ayudan a explicar por qué se cometen actos subestándares o inseguros y por qué existen condiciones subestándares o inseguras.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 2,
+      "child_index": 1,
+      "child_total": 7,
+      "char_start": 307,
+      "char_count": 389
+    }
+  },
+  {
+    "content": "**Causas inmediatas:** Circunstancias que se presentan justamente antes del contacto; por lo general son observables o se hacen sentir",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 2,
+      "child_index": 2,
+      "child_total": 7,
+      "char_start": 698,
+      "char_count": 134
+    }
+  },
+  {
+    "content": ". Se clasifican en actos subestándares o actos inseguros (comportamientos que podrían dar paso a la ocurrencia de un accidente o incidente) y condiciones subestándares o condiciones inseguras (circunstancias que podrían dar paso a la ocurrencia de un accidente o incidente).",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 2,
+      "child_index": 3,
+      "child_total": 7,
+      "char_start": 832,
+      "char_count": 274
+    }
+  },
+  {
+    "content": "**Aportantes:** Empleadores públicos y privados, contratantes de personal bajo modalidad de contrato civil, comercial o administrativo; a las organizaciones de economía solidaria y del sector cooperativo, a las agremiaciones u asociaciones autorizadas para realizar la afiliación colectiva de trabajadores independientes al Sistema de Seguridad Social Integral.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 2,
+      "child_index": 4,
+      "child_total": 7,
+      "char_start": 1108,
+      "char_count": 361
+    }
+  },
+  {
+    "content": "**Accidente grave:** Aquel que trae como consecuencia amputación de cualquier segmento corporal; fractura de huesos largos (fémur, tibia, peroné, húmero, radio y cúbito); trauma craneoencefálico; quemaduras de segundo y tercer grado; lesiones severas de mano, tales como aplastamiento o quemaduras; lesiones severas de columna vertebral con compromiso de médula espinal; lesiones oculares que",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 2,
+      "child_index": 5,
+      "child_total": 7,
+      "char_start": 1471,
+      "char_count": 392
+    }
+  },
+  {
+    "content": "lesiones severas de columna vertebral con compromiso de médula espinal; lesiones oculares que comprometan la agudeza o el campo visual o lesiones que comprometan la capacidad auditiva.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 2,
+      "child_index": 6,
+      "child_total": 7,
+      "char_start": 1770,
+      "char_count": 184
+    }
+  },
+  {
+    "content": "**Artículo 4°. Obligaciones de los aportantes.** Los aportantes definidos en el artículo anterior tienen las siguientes obligaciones:\n\n1. Conformar el equipo investigador de los incidentes y accidentes de trabajo, de conformidad con lo establecido en el artículo 7° de la presente resolución.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 3,
+      "child_index": 0,
+      "child_total": 8,
+      "char_start": 0,
+      "char_count": 292
+    }
+  },
+  {
+    "content": "2. Investigar todos los incidentes y accidentes de trabajo dentro de los quince (15) días siguientes a su ocurrencia, a través del equipo investigador, conforme lo determina la presente resolución.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 3,
+      "child_index": 1,
+      "child_total": 8,
+      "char_start": 294,
+      "char_count": 197
+    }
+  },
+  {
+    "content": "3. Adoptar una metodología y un formato para investigar los incidentes y los accidentes de trabajo, que contenga, como mínimo, los lineamientos establecidos en la presente resolución, siendo procedente adoptar los diseñados por la administradora de riesgos profesionales.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 3,
+      "child_index": 2,
+      "child_total": 8,
+      "char_start": 493,
+      "char_count": 271
+    }
+  },
+  {
+    "content": "Cuando como consecuencia del accidente de trabajo se produzca el fallecimiento del trabajador, se debe utilizar obligatoriamente el formato suministrado por la Administradora de Riesgos Profesionales a la que se encuentre afiliado, conforme lo establece el artículo 4° del Decreto 1530 de 1996, o la norma que lo modifique, adicione o sustituya.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 3,
+      "child_index": 3,
+      "child_total": 8,
+      "char_start": 766,
+      "char_count": 345
+    }
+  },
+  {
+    "content": "4. Registrar en el formato de investigación, en forma veraz y objetiva, toda la información que conduzca a la identificación de las causas reales del accidente o incidente de trabajo.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 3,
+      "child_index": 4,
+      "child_total": 8,
+      "char_start": 1113,
+      "char_count": 183
+    }
+  },
+  {
+    "content": "5",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 3,
+      "child_index": 5,
+      "child_total": 8,
+      "char_start": 376,
+      "char_count": 1
+    }
+  },
+  {
+    "content": ". Implementar las medidas y acciones correctivas que, como producto de la investigación, recomienden el Comité Paritario de Salud Ocupacional o Vigía Ocupacional; las autoridades administrativas laborales y ambientales; así como la Administradora de Riesgos Profesionales a la que se encuentre afiliado el empleador, la empresa de servicios temporales, los trabajadores independientes o los",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 3,
+      "child_index": 6,
+      "child_total": 8,
+      "char_start": 1299,
+      "char_count": 390
+    }
+  },
+  {
+    "content": "afiliado el empleador, la empresa de servicios temporales, los trabajadores independientes o los organismos de trabajo asociado y cooperativo, según sea el caso.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 3,
+      "child_index": 7,
+      "child_total": 8,
+      "char_start": 1593,
+      "char_count": 161
+    }
+  },
+  {
+    "content": "6. Proveer los recursos, elementos, bienes y servicios necesarios para implementar las medidas correctivas que resulten de la investigación, a fin de evitar la ocurrencia de eventos similares, las cuales deberán ser parte del cronograma de actividades del Programa de Salud Ocupacional de la empresa, incluyendo responsables y tiempo de ejecución.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 4,
+      "child_index": 0,
+      "child_total": 7,
+      "char_start": 0,
+      "char_count": 347
+    }
+  },
+  {
+    "content": "7. Implementar el registro del seguimiento realizado a las acciones ejecutadas a partir de cada investigación de accidente e incidente de trabajo ocurrido en la empresa o fuera de ella, al personal vinculado directa o indirectamente.\n\n8. Establecer y calcular indicadores de control y seguimiento del impacto de las acciones tomadas.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 4,
+      "child_index": 1,
+      "child_total": 7,
+      "char_start": 349,
+      "char_count": 333
+    }
+  },
+  {
+    "content": "8. Establecer y calcular indicadores de control y seguimiento del impacto de las acciones tomadas.\n\n9. Remitir, a la respectiva administradora de riesgos profesionales, los informes de investigación de los accidentes de trabajo a que se refiere el inciso primero del artículo 14 de la presente resolución, los cuales deberán ser firmados por el representante legal del aportante o su delegado.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 4,
+      "child_index": 2,
+      "child_total": 7,
+      "char_start": 584,
+      "char_count": 393
+    }
+  },
+  {
+    "content": "10. Llevar los archivos de las investigaciones adelantadas y pruebas de los correctivos implementados, los cuales deberán estar a disposición del Ministerio de la Protección Social cuando este los requiera.\n\n**Artículo 5°*.* Obligaciones de las administradoras de riesgos profesionales.**",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 4,
+      "child_index": 3,
+      "child_total": 7,
+      "char_start": 979,
+      "char_count": 288
+    }
+  },
+  {
+    "content": "**Artículo 5°*.* Obligaciones de las administradoras de riesgos profesionales.**\n\nEn relación con la investigación de incidentes y accidentes de trabajo, las administradoras de riesgos profesionales tienen las siguientes obligaciones:\n\n1. Proporcionar asesoría a sus afiliados, en materia de investigación de incidentes y accidentes de trabajo.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 4,
+      "child_index": 4,
+      "child_total": 7,
+      "char_start": 1187,
+      "char_count": 344
+    }
+  },
+  {
+    "content": "2. Desarrollar e implementar una metodología para la investigación de los incidentes y accidentes de trabajo y suministrarla a los aportantes.\n\n3. Remitir, para aprobación de la Dirección General de Riesgos Profesionales del Ministerio de la Protección Social, los formatos de investigación de incidentes y accidentes de trabajo.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 4,
+      "child_index": 5,
+      "child_total": 7,
+      "char_start": 1533,
+      "char_count": 329
+    }
+  },
+  {
+    "content": "4. Suministrar a los aportantes el formato de investigación de incidentes y accidentes de trabajo con su respectivo instructivo.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 4,
+      "child_index": 6,
+      "child_total": 7,
+      "char_start": 1864,
+      "char_count": 128
+    }
+  },
+  {
+    "content": "4. Suministrar a los aportantes el formato de investigación de incidentes y accidentes de trabajo con su respectivo instructivo.\n\n5. Analizar las investigaciones de los accidentes de trabajo remitidas por los aportantes, profundizar o complementar aquellas que en su criterio no cumplan con los requerimientos contenidos en la presente resolución.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 5,
+      "child_index": 0,
+      "child_total": 6,
+      "char_start": 0,
+      "char_count": 347
+    }
+  },
+  {
+    "content": "6. Capacitar continuamente al aportante, al equipo investigador y al Comité Paritario de Salud Ocupacional o Vigía Ocupacional, en la investigación de incidentes y accidentes de trabajo y en la implementación de correctivos.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 5,
+      "child_index": 1,
+      "child_total": 6,
+      "char_start": 349,
+      "char_count": 224
+    }
+  },
+  {
+    "content": "7. Participar, cuando lo estime necesario, en la investigación de accidentes de trabajo que, por su complejidad, consecuencias o falta de conocimiento técnico del aportante, hagan aconsejable la recolección de datos oportunos que permitan conocer las causas y emitir recomendaciones más precisas.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 5,
+      "child_index": 2,
+      "child_total": 6,
+      "char_start": 575,
+      "char_count": 296
+    }
+  },
+  {
+    "content": "8. Emitir conceptos técnicos sobre cada investigación remitida, así como recomendaciones complementarias, en caso de ser necesario, a fin de que el aportante implemente las medidas correctivas para prevenir eventos similares.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 5,
+      "child_index": 3,
+      "child_total": 6,
+      "char_start": 873,
+      "char_count": 225
+    }
+  },
+  {
+    "content": "9. Realizar seguimiento a las medidas de control sugeridas en las investigaciones de accidentes y tener los soportes disponibles cuando el Ministerio de la Protección Social lo solicite.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 5,
+      "child_index": 4,
+      "child_total": 6,
+      "char_start": 1100,
+      "char_count": 186
+    }
+  },
+  {
+    "content": "10. Remitir informe semestral, con sus respectivos soportes, a las Direcciones Territoriales del Ministerio de la Protección Social para efecto del ejercicio de la vigilancia y control que le corresponde, sobre los aportantes que han incumplido las medidas de control recomendadas o que habiéndolas adoptado, fueron insuficientes para el control del riesgo causante del accidente.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 5,
+      "child_index": 5,
+      "child_total": 6,
+      "char_start": 1288,
+      "char_count": 380
+    }
+  },
+  {
+    "content": "El informe deberá contener los siguientes datos: Nombre o razón social, documento de identidad, dirección, departamento y municipio del aportante; nombre y documento de identidad del trabajador accidentado; fechas del accidente de trabajo, del envío de la investigación a la ARP, de las recomendaciones de la ARP al aportante, de verificación de la ARP; recomendaciones incumplidas y razón del",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 6,
+      "child_index": 0,
+      "child_total": 10,
+      "char_start": 0,
+      "char_count": 393
+    }
+  },
+  {
+    "content": "de la ARP al aportante, de verificación de la ARP; recomendaciones incumplidas y razón del incumplimiento.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 6,
+      "child_index": 1,
+      "child_total": 10,
+      "char_start": 303,
+      "char_count": 106
+    }
+  },
+  {
+    "content": "11. Informar a los aportantes sobre los resultados de las investigaciones de accidentes e incidentes de trabajo, para que sean tenidos en cuenta de forma prioritaria en las actividades de prevención de riesgos profesionales.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 6,
+      "child_index": 2,
+      "child_total": 10,
+      "char_start": 411,
+      "char_count": 224
+    }
+  },
+  {
+    "content": "**Artículo 6°",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 6,
+      "child_index": 3,
+      "child_total": 10,
+      "char_start": 637,
+      "char_count": 13
+    }
+  },
+  {
+    "content": ". Metodología de la investigación de incidente y accidente de trabajo.** El aportante podrá utilizar la metodología de investigación de incidentes y accidentes de trabajo que más se ajuste a sus necesidades y requerimientos de acuerdo con su actividad económica, desarrollo técnico o tecnológico, de tal manera que le permita y facilite cumplir con sus obligaciones legales y le sirva como",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 6,
+      "child_index": 4,
+      "child_total": 10,
+      "char_start": 650,
+      "char_count": 389
+    }
+  },
+  {
+    "content": "de tal manera que le permita y facilite cumplir con sus obligaciones legales y le sirva como herramienta técnica de prevención.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 6,
+      "child_index": 5,
+      "child_total": 10,
+      "char_start": 947,
+      "char_count": 127
+    }
+  },
+  {
+    "content": "**Artículo 7°. Equipo investigador*",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 6,
+      "child_index": 6,
+      "child_total": 10,
+      "char_start": 1076,
+      "char_count": 35
+    }
+  },
+  {
+    "content": ". ***El aportante debe conformar un equipo para la investigación de todos los incidentes y accidentes de trabajo, integrado como mínimo por el jefe inmediato o supervisor del trabajador accidentado o del área donde ocurrió el incidente, un representante del Comité Paritario de Salud Ocupacional o el Vigía Ocupacional y el encargado del desarrollo del programa de salud ocupacional",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 6,
+      "child_index": 7,
+      "child_total": 10,
+      "char_start": 1111,
+      "char_count": 382
+    }
+  },
+  {
+    "content": ". Cuando el aportante no tenga la estructura anterior, deberá conformar un equipo investigador integrado por trabajadores capacitados para tal fin.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 6,
+      "child_index": 8,
+      "child_total": 10,
+      "char_start": 1493,
+      "char_count": 147
+    }
+  },
+  {
+    "content": "Cuando el accidente se considere grave o produzca la muerte, en la investigación deberá participar un profesional con licencia en Salud Ocupacional, propio o contratado, así como el personal de la empresa encargado del diseño de normas, procesos y/o mantenimiento.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 6,
+      "child_index": 9,
+      "child_total": 10,
+      "char_start": 1642,
+      "char_count": 264
+    }
+  },
+  {
+    "content": "**Parágrafo.** Los aportantes podrán apoyarse en personal experto interno o externo, para determinar las causas y establecer las medidas correctivas del caso.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 7,
+      "child_index": 0,
+      "child_total": 10,
+      "char_start": 0,
+      "char_count": 158
+    }
+  },
+  {
+    "content": "**Artículo 8°",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 7,
+      "child_index": 1,
+      "child_total": 10,
+      "char_start": 160,
+      "char_count": 13
+    }
+  },
+  {
+    "content": ". Investigación de accidentes e incidentes ocurridos a trabajadores no vinculados mediante contrato de trabajo.** Cuando el accidentado sea un trabajador en misión, un trabajador asociado a un organismo de trabajo asociado o cooperativo o un trabajador independiente, la responsabilidad de la investigación será tanto de la empresa de servicios temporales como de la empresa usuaria; de la empresa",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 7,
+      "child_index": 2,
+      "child_total": 10,
+      "char_start": 173,
+      "char_count": 397
+    }
+  },
+  {
+    "content": "será tanto de la empresa de servicios temporales como de la empresa usuaria; de la empresa beneficiaria del servicio del trabajador asociado y del contratante, según sea el caso",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 7,
+      "child_index": 3,
+      "child_total": 10,
+      "char_start": 480,
+      "char_count": 177
+    }
+  },
+  {
+    "content": ". En el concepto técnico se deberá indicar el correctivo que le corresponde implementar a cada una.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 7,
+      "child_index": 4,
+      "child_total": 10,
+      "char_start": 657,
+      "char_count": 99
+    }
+  },
+  {
+    "content": "Para efecto de la investigación, se seguirá el mismo procedimiento señalado en los artículos anteriores.\n\n**CAPITULO. II**\n\n**Informe de investigación**",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 7,
+      "child_index": 5,
+      "child_total": 10,
+      "char_start": 758,
+      "char_count": 152
+    }
+  },
+  {
+    "content": "**Artículo 9°",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 7,
+      "child_index": 6,
+      "child_total": 10,
+      "char_start": 912,
+      "char_count": 13
+    }
+  },
+  {
+    "content": ". Contenido del informe de investigación.** El documento que contenga el resultado de la investigación de un incidente o accidente deberá contener todas las variables y códigos del informe de accidente de trabajo, establecidos en la Resolución 156 de 2005 o la norma que la sustituya, modifique o adicione, en cuanto a información del aportante, del trabajador accidentado y datos sobre el accidente.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 7,
+      "child_index": 7,
+      "child_total": 10,
+      "char_start": 925,
+      "char_count": 400
+    }
+  },
+  {
+    "content": "Para determinar las causas, hechos y situaciones es necesario, además, que en el informe de investigación se detallen características específicas sobre tipo de lesión, parte detallada del cuerpo que fue lesionada, lesión precisa que sufrió el trabajador; agente y mecanismo del accidente, sitio exacto donde ocurrió el evento",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 7,
+      "child_index": 8,
+      "child_total": 10,
+      "char_start": 1327,
+      "char_count": 325
+    }
+  },
+  {
+    "content": ". Respecto del agente de la lesión, se debe incluir información como: tipo, marca, modelo, velocidades, tamaños, formas, dimensiones y las demás que se consideren necesarias.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 7,
+      "child_index": 9,
+      "child_total": 10,
+      "char_start": 1652,
+      "char_count": 174
+    }
+  },
+  {
+    "content": "El informe debe contener una descripción clara y completa del accidente, el análisis causal detallado, las conclusiones, las medidas de control y demás datos propios de la investigación.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 8,
+      "child_index": 0,
+      "child_total": 8,
+      "char_start": 0,
+      "char_count": 186
+    }
+  },
+  {
+    "content": "**Artículo 10",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 8,
+      "child_index": 1,
+      "child_total": 8,
+      "char_start": 188,
+      "char_count": 13
+    }
+  },
+  {
+    "content": ". Descripción del accidente o incidente.** El informe deberá contener un relato completo y detallado de los hechos relacionados con el accidente o incidente, de acuerdo con la inspección realizada al sitio de trabajo y las versiones de los testigos, involucrando todo aquello que se considere importante o que aporte información para determinar las causas específicas del accidente o incidente, tales",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 8,
+      "child_index": 2,
+      "child_total": 8,
+      "char_start": 201,
+      "char_count": 400
+    }
+  },
+  {
+    "content": "o que aporte información para determinar las causas específicas del accidente o incidente, tales como cuándo ocurrió, dónde se encontraba el trabajador, qué actividad estaba realizando y qué pasó, por qué realizaba la actividad, para qué, con quién se encontraba, cómo sucedió.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 8,
+      "child_index": 3,
+      "child_total": 8,
+      "char_start": 505,
+      "char_count": 277
+    }
+  },
+  {
+    "content": "Para obtener la información, el aportante puede acudir al reconocimiento del área involucrada, entrevista a testigos, fotografías, videos, diagramas, revisión de documentos y demás técnicas que se consideren necesarias.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 8,
+      "child_index": 4,
+      "child_total": 8,
+      "char_start": 784,
+      "char_count": 219
+    }
+  },
+  {
+    "content": "**Artículo 11. Causas del accidente o incidente.** Son las razones por las cuales ocurre el accidente o incidente. En el informe se deben relacionar todas las causas encontradas dentro de la investigación, identificando las básicas o mediatas y las inmediatas y especificando en cada grupo, el listado de los actos subestándar o inseguros y las condiciones subestándar o inseguras.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 8,
+      "child_index": 5,
+      "child_total": 8,
+      "char_start": 1005,
+      "char_count": 381
+    }
+  },
+  {
+    "content": "**Artículo 12. Compromiso de adopción de medidas de intervención.**\n\nEnumerar y describir las medidas de intervención que la empresa se compromete a adoptar, para prevenir o evitar la ocurrencia de eventos similares, indicando en cada caso quién (es) es (son) el (los) responsable (s) y cuándo se realizará la intervención.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 8,
+      "child_index": 6,
+      "child_total": 8,
+      "char_start": 1388,
+      "char_count": 323
+    }
+  },
+  {
+    "content": "Además, se deben especificar las medidas que se realizarán en la fuente del riesgo, en el medio ambiente de trabajo y en los trabajadores. Las recomendaciones deben ser prácticas y tener una relación lógica con la causa básica identificada.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 8,
+      "child_index": 7,
+      "child_total": 8,
+      "char_start": 1713,
+      "char_count": 240
+    }
+  },
+  {
+    "content": "La empresa implementará las acciones recomendadas, llevará los registros de cumplimiento, verificará la efectividad de las acciones adelantadas y realizará los ajustes que considere necesarios.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 9,
+      "child_index": 0,
+      "child_total": 7,
+      "char_start": 0,
+      "char_count": 193
+    }
+  },
+  {
+    "content": "**Artículo 13. Datos relativos a la investigación.** En el informe se debe relacionar lugar, dirección, fecha(s) y hora(s) en que se realiza la investigación; nombres, cargos, identificación y firmas de los investigadores y del representante legal.\n\n**CAPITULO. III**\n\n**Disposiciones finales**",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 9,
+      "child_index": 1,
+      "child_total": 7,
+      "char_start": 195,
+      "char_count": 294
+    }
+  },
+  {
+    "content": "**Disposiciones finales**\n\n**Artículo 14. Remisión de investigaciones.** El aportante debe remitir a la Administradora de Riesgos Profesionales a la que se encuentre afiliado, dentro de los quince (15) días siguientes a la ocurrencia del evento, el informe de investigación del accidente de trabajo mortal y de los accidentes graves definidos en el artículo 3º de la presente resolución.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 9,
+      "child_index": 2,
+      "child_total": 7,
+      "char_start": 464,
+      "char_count": 387
+    }
+  },
+  {
+    "content": "Recibida la investigación por la Administradora de Riesgos Profesionales, esta la evaluará, complementará y emitirá concepto sobre el evento correspondiente, determinando las acciones de prevención que debe implementar el aportante, en un plazo no superior a quince (15) días hábiles.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 9,
+      "child_index": 3,
+      "child_total": 7,
+      "char_start": 853,
+      "char_count": 284
+    }
+  },
+  {
+    "content": "Cuando el accidente de trabajo sea mortal, la Administradora de Riesgos Profesionales remitirá el informe dentro de los diez (10) días hábiles siguientes a la emisión del concepto, junto con la investigación y copia del informe del accidente de trabajo, a la Dirección Territorial de Trabajo o a la Oficina Especial de Trabajo del Ministerio de la Protección Social, según sea el caso, a efecto de",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 9,
+      "child_index": 4,
+      "child_total": 7,
+      "char_start": 1139,
+      "char_count": 397
+    }
+  },
+  {
+    "content": "Oficina Especial de Trabajo del Ministerio de la Protección Social, según sea el caso, a efecto de que se adelante la correspondiente investigación administrativa laboral y se impongan las sanciones a que hubiere lugar si fuere del caso.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 9,
+      "child_index": 5,
+      "child_total": 7,
+      "char_start": 1438,
+      "char_count": 237
+    }
+  },
+  {
+    "content": "Para efecto de la investigación del accidente de trabajo mortal, los formatos deben contener, como mínimo, los requisitos establecidos en la presente resolución.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 9,
+      "child_index": 6,
+      "child_total": 7,
+      "char_start": 1677,
+      "char_count": 161
+    }
+  },
+  {
+    "content": "Para efecto de la investigación del accidente de trabajo mortal, los formatos deben contener, como mínimo, los requisitos establecidos en la presente resolución.\n\nLa Dirección General de Riesgos Profesionales del Ministerio de la Protección Social podrá solicitar, en cualquier tiempo, los informes de que trata el presente artículo.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 10,
+      "child_index": 0,
+      "child_total": 6,
+      "char_start": 0,
+      "char_count": 333
+    }
+  },
+  {
+    "content": "**Artículo 15",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 10,
+      "child_index": 1,
+      "child_total": 6,
+      "char_start": 335,
+      "char_count": 13
+    }
+  },
+  {
+    "content": ". Sanciones.** El incumplimiento de lo establecido en la presente resolución será sancionado de conformidad con lo establecido en los literales [[a]{custom-style=\"Hyperlink\"}](https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=2629#91.a)) y [[c]{custom-style=\"Hyperlink\"}](https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=2629#91.c)) del artículo 91 del Decreto-ley 1295 de",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 10,
+      "child_index": 2,
+      "child_total": 6,
+      "char_start": 348,
+      "char_count": 395
+    }
+  },
+  {
+    "content": "del artículo 91 del Decreto-ley 1295 de 1994.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 10,
+      "child_index": 3,
+      "child_total": 6,
+      "char_start": 704,
+      "char_count": 45
+    }
+  },
+  {
+    "content": "Las investigaciones administrativas y las sanciones por incumplimiento de la presente resolución serán de competencia de las Direcciones Territoriales del Ministerio de la Protección Social, de conformidad con lo previsto por el artículo [[115]{custom-style=\"Hyperlink\"}](https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=1208#115) del Decreto-ley 2150 de 1995.",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 10,
+      "child_index": 4,
+      "child_total": 6,
+      "char_start": 751,
+      "char_count": 372
+    }
+  },
+  {
+    "content": "**Artículo 16. Vigencia y derogatorias.** La presente resolución rige a partir de su publicación y deroga las normas que le sean contrarias.\n\n**Publíquese y cúmplase**\n\n**Dada en Bogotá, D. C., a 14 de mayo de 2007.**\n\n**El Ministro de Protección Social,**\n\n**Diego Palacio Betancourt.**",
+    "metadata": {
+      "source": "../../fase2_cleaner/data/processed/Aceptado.Resolución 1401 de 2007.md",
+      "numero_ley": "205",
+      "anio": "2003",
+      "id_norma": "Ley_205_2003",
+      "chunk_type": "child",
+      "parent_index": 10,
+      "child_index": 5,
+      "child_total": 6,
+      "char_start": 1125,
+      "char_count": 287
+    }
+  }
+]
